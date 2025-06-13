@@ -6,11 +6,10 @@ export default function GallerySection() {
       <div className="max-w-8xl mx-auto">
         {/* Header with horizontal layout */}
         <div className="flex flex-col lg:flex-row lg:justify-between lg:items-end mb-12 lg:mb-16 gap-6 lg:gap-16">
-          <h2 className="text-4xl lg:text-5xl font-semibold text-gray-900 leading-tight tracking-tight">
-            Explore Our World
-          </h2>
-          <p className="text-lg lg:text-xl text-gray-500 font-light leading-relaxed max-w-xl lg:max-w-2xl">
-            Step into the world of Urbanet, where exceptional living spaces meet modern luxury and convenience.
+          <h2 className="h6 lg:h5 text-gray-900">Explore Our World</h2>
+          <p className="tsm lg:tlg text-gray-500 max-w-xl lg:max-w-2xl">
+            Step into the world of Urbanet, where exceptional living spaces meet modern luxury and
+            convenience.
           </p>
         </div>
 
@@ -21,11 +20,11 @@ export default function GallerySection() {
             <div className="h-64 lg:h-96 bg-gray-300 rounded-xl"></div>
             <div className="h-64 lg:h-96 bg-gray-300 rounded-xl"></div>
           </div>
-          
+
           {/* Right Column - Large Image */}
           <div className="h-64 lg:h-[800px] bg-gray-300 rounded-xl"></div>
         </div>
       </div>
     </section>
   );
-} 
+}

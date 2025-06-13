@@ -19,7 +19,6 @@ export function generateMetadataFor(
   namespace: string,
   keys?: { title?: string; description?: string },
 ) {
-
   return async function ({ params }: { params: { locale: string } }) {
     return generateTranslatedMetadata(params.locale, namespace, keys);
   };

@@ -29,7 +29,7 @@
         "link": "/residential/home-extensions",
         "image": "/images/residential/home-extensions/home-extensions.webp"
       },
-      { 
+      {
         "title": "Rénovations de cuisine et salle de bain",
         "description": "Transformez votre cuisine ou votre salle de bain avec des matériaux de qualité et une installation experte. Nos rénovations améliorent à la fois la fonctionnalité et l'esthétique.",
         "link": "/residential/kitchen-bathroom-renovations",
@@ -71,5 +71,5 @@
         "description": "En tant qu'entreprise basée, nous comprenons les codes du bâtiment locaux, les exigences en matière de permis et les caractéristiques uniques des maisons montréalaises. Notre expertise locale assure une exécution fluide du projet."
       }
     ]
-  } 
+  }
 }

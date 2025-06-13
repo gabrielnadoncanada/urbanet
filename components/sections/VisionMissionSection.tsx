@@ -1,6 +1,6 @@
-'use client'
+'use client';
 import React, { useState } from 'react';
-import { Button } from "@/components/ui/button";
+import { Button } from '@/components/ui/button';
 
 export default function VisionMissionSection() {
   const [activeTab, setActiveTab] = useState('vision');
@@ -15,7 +15,7 @@ export default function VisionMissionSection() {
               <div className="flex flex-wrap gap-4 mb-8">
                 <Button
                   onClick={() => setActiveTab('vision')}
-                  className={`px-6 py-3 rounded-lg font-semibold ${
+                  className={`px-6 py-3 rounded-lg txs lg:tsm font-semibold ${
                     activeTab === 'vision'
                       ? 'bg-gray-900 text-white'
                       : 'bg-transparent border border-gray-300 text-gray-900 hover:bg-gray-50'
@@ -25,7 +25,7 @@ export default function VisionMissionSection() {
                 </Button>
                 <Button
                   onClick={() => setActiveTab('mission')}
-                  className={`px-6 py-3 rounded-lg font-semibold ${
+                  className={`px-6 py-3 rounded-lg txs lg:tsm font-semibold ${
                     activeTab === 'mission'
                       ? 'bg-gray-900 text-white'
                       : 'bg-transparent border border-gray-300 text-gray-900 hover:bg-gray-50'
@@ -37,24 +37,26 @@ export default function VisionMissionSection() {
 
               {/* Content */}
               <div className="mb-8">
-                <h3 className="text-3xl lg:text-5xl font-semibold text-gray-900 mb-6">
+                <h3 className="tsm lg:tlg font-semibold text-gray-900 mb-6">
                   Trusted & Innovative Real Estate Connection
                 </h3>
-                <p className="text-lg text-gray-500 leading-relaxed">
-                  Finding the perfect home or investment property requires expertise, trust, and innovation. We bridge the gap between your real estate goals and seamless transactions by combining industry knowledge with cutting-edge technology.
+                <p className="txs lg:tsm text-gray-500">
+                  Finding the perfect home or investment property requires expertise, trust, and
+                  innovation. We bridge the gap between your real estate goals and seamless
+                  transactions by combining industry knowledge with cutting-edge technology.
                 </p>
               </div>
 
               {/* Progress Bar */}
               <div className="flex gap-2">
                 <div className="flex-1 h-2 bg-gray-200 rounded-full">
-                  <div 
+                  <div
                     className="h-full bg-gray-900 rounded-full transition-all duration-300"
                     style={{ width: activeTab === 'vision' ? '100%' : '0%' }}
                   ></div>
                 </div>
                 <div className="flex-1 h-2 bg-gray-200 rounded-full">
-                  <div 
+                  <div
                     className="h-full bg-gray-900 rounded-full transition-all duration-300"
                     style={{ width: activeTab === 'mission' ? '100%' : '0%' }}
                   ></div>
@@ -66,4 +68,4 @@ export default function VisionMissionSection() {
       </div>
     </section>
   );
-} 
+}

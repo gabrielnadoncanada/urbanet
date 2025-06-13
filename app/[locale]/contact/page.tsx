@@ -8,11 +8,11 @@ import Footer from '@/components/layout/Footer';
 
 export default function ContactPage() {
   return (
-    <div className="min-h-screen bg-background ">
+    <div className="min-h-screen bg-background">
       <ContactHeroSection />
       <ContactDetailSection />
       <FAQSection />
-      <CTASection 
+      <CTASection
         variant="two-column"
         title="Find Your Perfect Property With Urbanet"
         description="Looking for your dream home? Urbanet makes property searching easy and stress-free! With our user-friendly platform and expert agents,"
@@ -20,4 +20,4 @@ export default function ContactPage() {
       />
     </div>
   );
-} 
+}

@@ -1,6 +1,6 @@
 import React from 'react';
-import { Button } from "@/components/ui/button";
-import { HomeIcon } from "@radix-ui/react-icons";
+import { Button } from '@/components/ui/button';
+import { HomeIcon } from '@radix-ui/react-icons';
 
 export default function AboutHeroSection() {
   return (
@@ -11,21 +11,23 @@ export default function AboutHeroSection() {
           {/* Heading Section */}
           <div className="flex flex-col lg:flex-row justify-between lg:items-end gap-8 lg:gap-32 mb-8">
             <div className="max-w-2xl">
-              <h1 className="text-4xl lg:text-7xl font-semibold text-gray-900 leading-tight tracking-tight">
+              <h1 className="h6 lg:h5 text-gray-900">
                 Turning Real Estate Dreams into Reality.
               </h1>
             </div>
             <div className="max-w-xl lg:max-w-lg">
-              <p className="text-lg lg:text-xl text-gray-600 font-light leading-relaxed">
-                Revolutionizing the way you buy, sell, and rent properties with trust, technology, and transparency—making real estate transactions seamless, efficient, and stress-free.
+              <p className="tsm lg:tlg text-gray-600">
+                Revolutionizing the way you buy, sell, and rent properties with trust, technology,
+                and transparency—making real estate transactions seamless, efficient, and
+                stress-free.
               </p>
             </div>
           </div>
-          
+
           {/* Image Section */}
           <div className="w-full h-96 lg:h-[600px] bg-gray-300 rounded-xl"></div>
         </div>
       </div>
     </section>
   );
-} 
+}

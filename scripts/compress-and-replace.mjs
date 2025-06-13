@@ -13,18 +13,18 @@ const CONFIG = {
   maxFileSize: 5 * 1024 * 1024,
   // Quality settings based on image size
   quality: {
-    small: 85,   // < 500KB
-    medium: 80,  // 500KB - 2MB
-    large: 75,   // 2MB - 5MB
-    huge: 70     // > 5MB
+    small: 85, // < 500KB
+    medium: 80, // 500KB - 2MB
+    large: 75, // 2MB - 5MB
+    huge: 70, // > 5MB
   },
   // Resize thresholds
   resize: {
     // If width or height > 3000px, resize to maxDimension
     threshold: 3000,
     // For hero images, allow larger size
-    heroMaxDimension: 2560
-  }
+    heroMaxDimension: 2560,
+  },
 };
 
 // Helper function to get file size
@@ -42,37 +42,39 @@ function getQualityForSize(fileSize) {
 
 // Helper function to determine if image should be resized
 function shouldResize(metadata, filePath) {
-  const isHeroImage = filePath.toLowerCase().includes('hero') || 
-                     filePath.toLowerCase().includes('banner');
+  const isHeroImage =
+    filePath.toLowerCase().includes('hero') || filePath.toLowerCase().includes('banner');
   const maxDim = isHeroImage ? CONFIG.resize.heroMaxDimension : CONFIG.maxDimension;
-  
-  return metadata.width > CONFIG.resize.threshold || 
-         metadata.height > CONFIG.resize.threshold ||
-         metadata.width > maxDim ||
-         metadata.height > maxDim;
+
+  return (
+    metadata.width > CONFIG.resize.threshold ||
+    metadata.height > CONFIG.resize.threshold ||
+    metadata.width > maxDim ||
+    metadata.height > maxDim
+  );
 }
 
 // Helper function to calculate new dimensions
 function calculateNewDimensions(width, height, filePath) {
-  const isHeroImage = filePath.toLowerCase().includes('hero') || 
-                     filePath.toLowerCase().includes('banner');
+  const isHeroImage =
+    filePath.toLowerCase().includes('hero') || filePath.toLowerCase().includes('banner');
   const maxDim = isHeroImage ? CONFIG.resize.heroMaxDimension : CONFIG.maxDimension;
-  
+
   if (width <= maxDim && height <= maxDim) {
     return { width, height };
   }
-  
+
   const aspectRatio = width / height;
-  
+
   if (width > height) {
     return {
       width: Math.min(width, maxDim),
-      height: Math.round(Math.min(width, maxDim) / aspectRatio)
+      height: Math.round(Math.min(width, maxDim) / aspectRatio),
     };
   } else {
     return {
       width: Math.round(Math.min(height, maxDim) * aspectRatio),
-      height: Math.min(height, maxDim)
+      height: Math.min(height, maxDim),
     };
   }
 }
@@ -92,7 +94,7 @@ console.log('🔍 Pattern used:', `${INPUT_DIR}/**/*.{jpg,jpeg,png,webp}`);
 console.log('⚙️  Configuration:', {
   maxDimension: CONFIG.maxDimension,
   maxFileSize: formatFileSize(CONFIG.maxFileSize),
-  resizeThreshold: CONFIG.resize.threshold
+  resizeThreshold: CONFIG.resize.threshold,
 });
 
 const files = await globby([`${INPUT_DIR}/**/*.{jpg,jpeg,png,webp}`]);
@@ -113,7 +115,7 @@ for (const file of files) {
   const isWebP = file.toLowerCase().endsWith('.webp');
   const outputPath = isWebP ? file : file.replace(/\.(jpg|jpeg|png)$/i, '.webp');
   const tempPath = isWebP ? `${file}.tmp` : outputPath;
-  
+
   const originalSize = getFileSize(file);
   totalOriginalSize += originalSize;
 
@@ -121,16 +123,18 @@ for (const file of files) {
     // Get image metadata
     const metadata = await sharp(file).metadata();
     console.log(`\n📋 Processing: ${file}`);
-    console.log(`   Original: ${metadata.width}x${metadata.height}, ${formatFileSize(originalSize)}`);
+    console.log(
+      `   Original: ${metadata.width}x${metadata.height}, ${formatFileSize(originalSize)}`,
+    );
 
     // Check if processing is needed (resize or recompress)
     const needsResize = shouldResize(metadata, file);
     const needsRecompression = isWebP && (originalSize > CONFIG.maxFileSize || needsResize);
-    
+
     // Skip if WebP file is already optimized
     if (isWebP && !needsResize && originalSize <= CONFIG.maxFileSize) {
       console.log(`   ⏭️  Skipping: WebP already optimized`);
-      totalCompressedSize += originalSize; // Count as "compressed" size
+      totalCompressedSize += originalSize; // Count as "compressed"size
       continue;
     }
 
@@ -142,7 +146,7 @@ for (const file of files) {
       const newDimensions = calculateNewDimensions(metadata.width, metadata.height, file);
       sharpInstance = sharpInstance.resize(newDimensions.width, newDimensions.height, {
         fit: 'inside',
-        withoutEnlargement: true
+        withoutEnlargement: true,
       });
       console.log(`   🔄 Resizing to: ${newDimensions.width}x${newDimensions.height}`);
     }
@@ -153,10 +157,10 @@ for (const file of files) {
 
     // Apply WebP compression
     await sharpInstance
-      .webp({ 
+      .webp({
         quality,
         effort: 6, // Higher effort for better compression
-        nearLossless: originalSize < 100 * 1024 // Use near-lossless for small files
+        nearLossless: originalSize < 100 * 1024, // Use near-lossless for small files
       })
       .toFile(tempPath);
 
@@ -165,26 +169,29 @@ for (const file of files) {
     totalCompressedSize += compressedSize;
 
     // Calculate compression ratio
-    const compressionRatio = ((originalSize - compressedSize) / originalSize * 100).toFixed(1);
+    const compressionRatio = (((originalSize - compressedSize) / originalSize) * 100).toFixed(1);
 
     // Handle file replacement
     if (isWebP) {
       // For WebP files, replace the original with the optimized version
       fs.unlinkSync(file);
       fs.renameSync(tempPath, file);
-      console.log(`   ✅ Optimized WebP: ${formatFileSize(originalSize)} → ${formatFileSize(compressedSize)} (${compressionRatio}% reduction)`);
+      console.log(
+        `   ✅ Optimized WebP: ${formatFileSize(originalSize)} → ${formatFileSize(compressedSize)} (${compressionRatio}% reduction)`,
+      );
     } else {
       // For other formats, remove original and keep the WebP
       fs.unlinkSync(file);
-      console.log(`   ✅ Converted: ${formatFileSize(originalSize)} → ${formatFileSize(compressedSize)} (${compressionRatio}% reduction)`);
+      console.log(
+        `   ✅ Converted: ${formatFileSize(originalSize)} → ${formatFileSize(compressedSize)} (${compressionRatio}% reduction)`,
+      );
     }
-    
-    processedCount++;
 
+    processedCount++;
   } catch (err) {
     console.warn(`   ❌ [SKIPPED] Failed to process "${file}":`, err.message);
     skippedCount++;
-    
+
     // Clean up temporary files
     if (fs.existsSync(tempPath)) {
       try {
@@ -193,7 +200,7 @@ for (const file of files) {
         console.warn(`   ⚠️  Could not remove temporary file: ${tempPath}`);
       }
     }
-    
+
     // If output file was partially created and different from input, remove it
     if (!isWebP && fs.existsSync(outputPath)) {
       try {
@@ -210,10 +217,15 @@ console.log('\n🎉 Compression completed!');
 console.log('📊 Summary:');
 console.log(`   ✅ Processed: ${processedCount} files`);
 console.log(`   ❌ Skipped: ${skippedCount} files`);
-console.log(`   💾 Total size reduction: ${formatFileSize(totalOriginalSize)} → ${formatFileSize(totalCompressedSize)}`);
+console.log(
+  `   💾 Total size reduction: ${formatFileSize(totalOriginalSize)} → ${formatFileSize(totalCompressedSize)}`,
+);
 
 if (totalOriginalSize > 0) {
-  const totalReduction = ((totalOriginalSize - totalCompressedSize) / totalOriginalSize * 100).toFixed(1);
+  const totalReduction = (
+    ((totalOriginalSize - totalCompressedSize) / totalOriginalSize) *
+    100
+  ).toFixed(1);
   console.log(`   📉 Overall compression: ${totalReduction}%`);
   console.log(`   💰 Space saved: ${formatFileSize(totalOriginalSize - totalCompressedSize)}`);
 }

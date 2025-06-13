@@ -5,4 +5,4 @@ export const residentialLinks = [
   { titleKey: 'doorsWindows', href: ROUTES.RESIDENTIAL_DOORS_WINDOWS },
   { titleKey: 'kitchenBathroom', href: ROUTES.RESIDENTIAL_KITCHEN_BATHROOM_RENOVATIONS },
   { titleKey: 'flooring', href: ROUTES.RESIDENTIAL_FLOORING_INSTALLATION },
-] as const; 
+] as const;
