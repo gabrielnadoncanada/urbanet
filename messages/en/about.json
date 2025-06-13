@@ -1,0 +1,160 @@
+{
+  "seo": {
+    "meta_title": "About Dilamco - Montreal Construction & Renovation Company",
+    "meta_description": "Learn about Dilamco, a trusted Montreal general contractor with over 20 years of experience in residential and commercial construction and renovation services."
+  },
+  "hero": {
+    "title": "About Dilamco",
+    "description": "Montreal's trusted general contractor with over 20 years of experience in residential and commercial construction and renovation.",
+    "image": "/images/hero-accueil-MTL.webp",
+    "ctaText": "Contact Us",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Our Story",
+    "image": "/images/residential/kitchen-bathroom-renovations/bathroom-renovations.webp",
+
+    "imageAlt": "Dilamco construction team at work",
+    "items": [
+      {
+        "description": "Founded in 2004, Dilamco has grown from a small residential renovation company to one of Montreal's most trusted general contractors. Our journey began when founder Michel Lambert, with over a decade of construction experience, decided to create a company that would prioritize quality craftsmanship and customer satisfaction above all else."
+      },
+      {
+        "description": "Over the years, we've expanded our services to include commercial construction, custom cabinetry, and disaster recovery, while maintaining our commitment to excellence in every project we undertake. Today, Dilamco is proud to have completed thousands of successful projects throughout the Greater Montreal area, building a reputation for reliability, quality, and integrity."
+      },
+      {
+        "description": "Our team has grown to include skilled tradespeople, project managers, designers, and customer service specialists, all sharing the same dedication to creating spaces that exceed our clients' expectations."
+      }
+    ],
+    "stats": [
+      {
+        "title": "20+",
+        "description": "Years of experience"
+      },
+      {
+        "title": "150+",
+        "description": "Projects completed"
+      }
+    ]
+  },
+  "services": {
+    "title": "Our Mission & Values",
+    "items": [
+      {
+        "title": "Our Mission",
+        "icon": "target",
+        "description": "At Dilamco, our mission is to transform spaces and improve lives through exceptional construction and renovation services. We strive to create beautiful, functional environments that meet our clients' needs while providing an outstanding customer experience from initial consultation to project completion."
+      },
+      {
+        "title": "Our Vision",
+        "icon": "eye",
+        "description": "We aim to be Montreal's premier general contractor, known for our unwavering commitment to quality, innovation, and customer satisfaction. We envision a future where Dilamco is synonymous with excellence in construction and renovation throughout Quebec."
+      },
+      {
+        "title": "Quality",
+        "icon": "shield-check",
+        "description": "We never compromise on quality, using premium materials and proven techniques in every project."
+      },
+      {
+        "title": "Integrity",
+        "icon": "handshake",
+        "description": "We operate with honesty and transparency, building trust with our clients and partners."
+      },
+      {
+        "title": "Reliability",
+        "icon": "clock",
+        "description": "We deliver on our promises, completing projects on time and within budget."
+      },
+      {
+        "title": "Customer Focus",
+        "icon": "users",
+        "description": "We prioritize our clients' needs and satisfaction throughout the entire project process."
+      }
+    ]
+  },
+  "process": {
+    "title": "Our Approach to Construction & Renovation",
+    "items": [
+      {
+        "number": "1",
+        "title": "Consultation & Planning",
+        "description": "We begin with a thorough consultation to understand your needs, preferences, and budget. Our team then develops a detailed plan and proposal tailored to your specific project."
+      },
+      {
+        "number": "2",
+        "title": "Design & Preparation",
+        "description": "Our design team creates detailed plans and visualizations of your project. We handle all necessary permits and prepare for construction with careful attention to detail."
+      },
+      {
+        "number": "3",
+        "title": "Construction & Completion",
+        "description": "Our skilled team executes the project with precision and care, maintaining clear communication throughout. We complete with a thorough inspection to ensure everything meets our high standards."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Community Involvement",
+    "ctaText": "Contact Our Team",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Charitable Work",
+        "description": "We regularly donate construction services to local charities, including habitat restoration projects and renovations for community centers. Our team also participates in annual fundraising events for children's hospitals and homeless shelters in Montreal."
+      },
+      {
+        "title": "Apprenticeship Program",
+        "description": "Dilamco is committed to developing the next generation of skilled tradespeople. Our apprenticeship program provides hands-on training and mentorship to young people interested in pursuing careers in construction and renovation."
+      },
+      {
+        "title": "Local Expertise",
+        "description": "At Dilamco, we believe in giving back to the Montreal community that has supported our growth over the years. We're proud to be involved in various community initiatives and charitable organizations."
+      },
+      {
+        "title": "Ready to Work With Us?",
+        "description": "Contact our team today to discuss your construction or renovation project. We look forward to bringing our expertise, quality craftsmanship, and customer-focused approach to your next project."
+      }
+    ]
+  },
+  "teamMembers": [
+    {
+      "name": "Michel Lambert",
+      "title": "Founder & President",
+      "bio": "With over 30 years of construction experience, Michel founded Dilamco in 2004 and continues to lead the company with his vision of quality and excellence."
+    },
+    {
+      "name": "Sophie Tremblay",
+      "title": "Operations Director",
+      "bio": "Sophie oversees all project operations, ensuring that every Dilamco project is completed to the highest standards of quality and efficiency."
+    },
+    {
+      "name": "Jean-Philippe Côté",
+      "title": "Lead Designer",
+      "bio": "Jean-Philippe brings creative vision to our projects, helping clients transform their ideas into beautiful, functional spaces."
+    }
+  ],
+  "credentials": {
+    "title": "Our Credentials & Certifications",
+    "licenses": {
+      "title": "Licenses & Certifications",
+      "items": [
+        "Licensed General Contractor (RBQ #1234-5678-90)",
+        "Member of the Association of Construction and Housing Professionals of Quebec (APCHQ)",
+        "Certified Green Building Professional",
+        "Certified Aging-in-Place Specialist (CAPS)",
+        "Licensed for Asbestos Removal and Management",
+        "Certified in Disaster Restoration"
+      ]
+    },
+    "insurance": {
+      "title": "Insurance & Guarantees",
+      "items": [
+        "Fully insured with comprehensive liability coverage",
+        "Workers' compensation coverage for all employees",
+        "Member of the Guarantee Plan for New Residential Buildings",
+        "5-year workmanship warranty on all renovation projects",
+        "Extended manufacturer warranties on installed products",
+        "Bonded for all commercial projects"
+      ]
+    }
+  }
+}

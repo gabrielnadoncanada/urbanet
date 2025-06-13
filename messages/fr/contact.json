@@ -1,0 +1,41 @@
+{
+  "seo": {
+    "meta_title": "Contactez Dilamco - Services de construction",
+    "meta_description": "Entrez en contact avec Dilamco pour un devis ou une consultation. Nous desservons Montréal et les environs - appelez ou envoyez un courriel à notre équipe aujourd'hui pour discuter de votre projet."
+  },
+  "hero": {
+    "title": "Contactez Dilamco",
+    "description": "Contactez notre équipe pour discuter de votre projet de construction ou de rénovation. Nous offrons des consultations et des devis détaillés.",
+    "image": "/images/contact/contact-hero.webp",
+    "ctaText": "Contactez-nous",
+    "ctaLink": "/contact"
+  },
+  "phone": "Téléphone",
+  "phoneDescription": "Appelez-nous pour une consultation",
+  "sms": "Message texte",
+  "smsDescription": "Envoyez-nous un message texte directement",
+  "email": "Courriel",
+  "emailDescription": "Envoyez-nous vos demandes",
+  "address": "Adresse",
+  "addressDescription": "Visitez nos bureaux",
+  "sendMessage": "Envoyez-nous un message",
+  "sendMessageDescription": "Remplissez le formulaire ci-dessous pour contacter notre équipe. Nous répondrons à votre demande dès que possible.",
+  "ourLocation": "Notre emplacement",
+  "businessHours": "Heures d'ouverture",
+  "monday": "Lundi - Vendredi",
+  "saturday": "Samedi",
+  "sunday": "Dimanche",
+  "closed": "Fermé",
+  "withAppointment": "Avec rendez-vous",
+  "emergency": "Services d'urgence disponibles",
+  "servingMontreal": "Desservant Montréal et les environs",
+  "servingMontrealDescription": "Dilamco dessert fièrement des clients dans toute la région du Grand Montréal, y compris Laval, la Rive-Sud, l'Ouest-de-l'Île et au-delà. Contactez-nous dès aujourd'hui pour discuter de votre projet, peu importe où vous êtes situé dans la région.",
+  "getInTouch": "Contactez-nous",
+  "getInTouchDescription": "Plusieurs façons de nous joindre pour discuter de votre projet de construction ou de rénovation.",
+  "faq": "Questions fréquentes",
+  "faqDescription": "Trouvez rapidement des réponses aux questions les plus courantes sur nos services.",
+  "readyToStart": "Prêt à démarrer votre projet?",
+  "readyToStartDescription": "Contactez-nous dès aujourd'hui pour discuter de votre projet et obtenir un devis gratuit. Notre équipe est prête à vous aider à réaliser votre vision.",
+  "callUsNow": "Appelez-nous maintenant",
+  "sendAMessage": "Envoyez un message"
+}

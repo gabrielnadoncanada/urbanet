@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "meta_title": "Kitchen and Bathroom Renovations in Montreal | Dilamco",
+    "meta_description": "Transform your home with modern kitchen and bathroom renovations in Montreal. Dilamco offers custom kitchen remodels and bathroom makeovers with quality craftsmanship."
+  },
+  "hero": {
+    "title": "Kitchen & Bathroom Renovation",
+    "description": "Bring your kitchen and bathroom back to life with modern, functional spaces that reflect your image.",
+    "image": "/images/residential/kitchen-bathroom-renovations/kitchen-bathroom-renovations.webp",
+    "ctaText": "Contact Us",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Transform Your Kitchen and Bathroom",
+    "image": "/images/residential/kitchen-bathroom-renovations/bathroom-renovations.webp",
+    "imageAlt": "Kitchen and bathroom renovations in Montreal",
+    "items": [
+      {
+        "description": "Renovating the kitchen and bathroom is one of the best ways to improve the comfort, functionality, and value of your home. These are central spaces, used every day, that deserve special attention: a well-designed kitchen promotes sharing moments, while a modern bathroom transforms routine into a true moment of relaxation."
+      },
+      {
+        "description": "At Dilamco, we specialize in custom design and renovation of kitchens and bathrooms. Our team accompanies you at every step, from design to installation, choosing quality materials and solutions adapted to your needs."
+      },
+      {
+        "description": "Treat yourself to modern, elegant, and durable spaces, created by passionate experts who care about the success of your project."
+      }
+    ]
+  },
+  "services": {
+    "title": "Our Renovation Services",
+    "items": [
+      {
+        "title": "Complete Kitchen Renovation",
+        "icon": "chef-hat",
+        "description": "Transform your kitchen into a modern, functional, and elegant space with our complete renovation service. From custom design to finishes, we create a space that reflects your style and meets your daily needs."
+      },
+      {
+        "title": "Bathroom Renovation",
+        "icon": "bath",
+        "description": "Dilamco transforms your bathroom into an elegant, practical, and comfortable space, perfectly adapted to your style. We install and renovate showers, bathtubs, and vanities to create a bathroom that is both elegant and functional."
+      },
+      {
+        "title": "Cabinets and Countertops",
+        "icon": "cabinet",
+        "description": "Improve the appearance and functionality of your kitchen or bathroom with our superior quality cabinets and countertops. We offer a wide range of styles, materials, and finishes to fit your budget and aesthetic preferences."
+      },
+      {
+        "title": "Flooring and Coverings",
+        "icon": "square-stack",
+        "description": "Complete your renovation with durable and elegant flooring and wall coverings. Our team installs tiles, backsplashes, and flooring that stand the test of time while enhancing the aesthetics of your space."
+      },
+      {
+        "title": "Lighting and Electrical",
+        "icon": "lightbulb",
+        "description": "Optimize the ambiance and functionality of your space with our lighting and electrical solutions. We install energy-efficient lighting systems that highlight your new kitchen or bathroom."
+      },
+      {
+        "title": "Plumbing and Fixtures",
+        "icon": "wrench",
+        "description": "Modernize your plumbing and fixtures to improve the efficiency and style of your kitchen or bathroom. We install quality faucets, sinks, showers, and bathtubs that combine aesthetics and performance."
+      }
+    ]
+  },
+  "process": {
+    "title": "Our Renovation Process",
+    "items": [
+      {
+        "number": "1",
+        "title": "Consultation and Design",
+        "description": "We discuss your needs and create custom plans to optimize the space, aesthetics, and functionality of your kitchen or bathroom."
+      },
+      {
+        "number": "2",
+        "title": "Selection and Preparation",
+        "description": "We guide you in choosing quality materials, plan each stage of the construction site, and prepare your home for work without surprises."
+      },
+      {
+        "number": "3",
+        "title": "Installation and Finishing",
+        "description": "Our team performs the installation with care and efficiency, ensures constant follow-up, and delivers a space ready to live in, meeting your expectations."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Local Expertise, Superior Quality",
+    "ctaText": "Contact Us",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Premium Materials",
+        "description": "We use only high-quality materials in our renovations to ensure the durability, beauty, and longevity of your kitchen or bathroom."
+      },
+      {
+        "title": "Skilled Craftspeople",
+        "description": "Our team includes experienced architects, carpenters, plumbers, electricians, and tile setters who take pride in their work and attention to detail."
+      },
+      {
+        "title": "Transparent Process",
+        "description": "We believe in clear communication throughout your renovation. From detailed quotes to regular progress updates, you'll always know what's happening with your project."
+      },
+      {
+        "title": "Local Expertise",
+        "description": "As a Montreal-based company, we understand the unique characteristics of local homes and the specific challenges they present, ensuring your project meets all regulations."
+      }
+    ]
+  }
+}

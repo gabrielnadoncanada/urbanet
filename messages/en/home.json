@@ -1,0 +1,121 @@
+{
+  "seo": {
+    "meta_title": "Montreal General Contractor – Construction & Renovation | Dilamco",
+    "meta_description": "Trusted Montreal general contractor offering residential, commercial, and disaster recovery construction services. Quality renovations in Montreal & area."
+  },
+  "hero": {
+    "items": [
+      {
+        "title": "Montreal Construction & Renovation Experts",
+        "description": "Dilamco is your trusted general contractor for residential and commercial construction, renovation, and disaster recovery services.",
+        "ctaText": "Request a Free Quote",
+        "ctaLink": "/contact",
+        "image": "/images/residential/residential-construction-renovation-banner.webp"
+      },
+      {
+        "title": "Montreal Construction & Renovation Experts",
+        "description": "Dilamco is your trusted general contractor for residential and commercial construction, renovation, and disaster recovery services.",
+        "ctaText": "Request a Free Quote",
+        "ctaLink": "/contact",
+        "image": "/images/residential/residential-construction-renovation-banner.webp"
+      }
+    ]
+  },
+  "intro": {
+    "title": "Quality Workmanship & Trusted Expertise",
+    "image": "/images/residential/kitchen-bathroom-renovations/kitchen-bathroom-renovations.webp",
+    "items": [
+      {
+        "description": "With over 20 years of experience serving Montreal and surrounding areas, Dilamco has built a reputation for excellence in construction and renovation. Our team of skilled professionals is committed to delivering high-quality results on time and within budget."
+      },
+      {
+        "description": "We take pride in our attention to detail, use of premium materials, and dedication to customer satisfaction. From small renovations to large-scale construction projects, we approach each job with the same level of care and professionalism."
+      }
+    ]
+  },
+  "services": {
+    "title": "Residential & Commercial Services Overview",
+    "items": [
+      {
+        "title": "Residential Construction",
+        "description": "Complete home renovations, extensions, kitchen & bathroom remodels, and more.",
+        "icon": "house",
+        "link": "/residential-construction-renovation",
+        "image": "/images/residential/residential-construction-renovation-banner.webp"
+      },
+      {
+        "title": "Commercial Construction",
+        "description": "Office, retail, and warehouse construction and renovation services.",
+        "icon": "building",
+        "link": "/commercial-construction-renovation",
+        "image": "/images/commercial/commercial-build-out.webp"
+      },
+      {
+        "title": "Custom Cabinets & Closets",
+        "description": "Custom kitchen cabinets, bathroom vanities, and closet organizers.",
+        "icon": "wrench",
+        "link": "/custom-cabinets-closets",
+        "image": "/images/custom-cabinets-closets/custom-cabinets-closets.webp"
+      },
+      {
+        "title": "Disaster Recovery",
+        "description": "Rapid response services for water damage, fire damage, and more.",
+        "icon": "shield",
+        "link": "/disaster-recovery",
+        "image": "/images/disaster-recovery/disaster-recovery.webp"
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Why Choose Dilamco?",
+    "ctaText": "Contact Our Montreal Team",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Experience and Expertise",
+        "description": "Our team has over 20 years of experience in construction and renovation serving Montreal and surrounding areas."
+      },
+      {
+        "title": "Quality and Reliability",
+        "description": "We use premium materials and are committed to delivering high-quality results that exceed expectations."
+      },
+      {
+        "title": "Customer Service",
+        "description": "We take pride in our customer service and are committed to providing quality service throughout your project."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "We offer competitive pricing and are committed to delivering quality service within your budget."
+      }
+    ]
+  },
+  "servicesOverview": "Residential & Commercial Services Overview",
+  "residentialConstruction": "Residential Construction",
+  "residentialDescription": "Complete home renovations, extensions, kitchen & bathroom remodels, and more.",
+  "commercialConstruction": "Commercial Construction",
+  "commercialDescription": "Office, retail, and warehouse construction and renovation services.",
+  "customCabinets": "Custom Cabinets & Closets",
+  "customCabinetsDescription": "Custom kitchen cabinets, bathroom vanities, and closet organizers.",
+  "disasterRecovery": "Disaster Recovery",
+  "disasterRecoveryDescription": "Rapid response services for water damage, fire damage, and more.",
+  "qualityTitle": "Quality Workmanship & Trusted Expertise",
+  "qualityDescription1": "With over 20 years of experience serving Montreal and surrounding areas, Dilamco has built a reputation for excellence in construction and renovation. Our team of skilled professionals is committed to delivering high-quality results on time and within budget.",
+  "qualityDescription2": "We take pride in our attention to detail, use of premium materials, and dedication to customer satisfaction. From small renovations to large-scale construction projects, we approach each job with the same level of care and professionalism.",
+  "learnMore": "Learn More About Us",
+  "servingTitle": "Serving Montreal and Surrounding Areas",
+  "servingDescription": "Dilamco proudly serves clients throughout the Greater Montreal area, including Laval, South Shore, West Island, and beyond. Our local expertise and understanding of Montreal's building codes and architectural styles ensure your project is completed to the highest standards.",
+  "montreal": "Montreal",
+  "montrealAreas": "Downtown, Plateau, NDG, Westmount, and all boroughs",
+  "laval": "Laval & North Shore",
+  "lavalAreas": "Laval, Terrebonne, Blainville, and surrounding areas",
+  "southShore": "South Shore",
+  "southShoreAreas": "Longueuil, Brossard, Saint-Lambert, and beyond",
+  "contactTeam": "Contact Our Team",
+  "recentProjects": "Recent Projects",
+  "viewDetails": "View Details",
+  "viewProjects": "View Projects",
+  "readyToStart": "Ready to Start Your Project?",
+  "readyDescription": "Contact Dilamco today to discuss your construction or renovation needs. We offer free consultations and quotes for all projects in the Montreal area.",
+  "requestQuote": "Request a Free Quote",
+  "callUs": "Call Us: (514) 820-0773"
+}

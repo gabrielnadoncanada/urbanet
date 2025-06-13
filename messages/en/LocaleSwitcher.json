@@ -1,0 +1,3 @@
+{
+  "locale": "{locale, select, fr {French} en {English} other {Unknown}}"
+}

@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "meta_title": "Restauration et récupération après sinistre – Dégâts d'eau et incendie | Dilamco",
+    "meta_description": "Services de récupération après sinistre. Dilamco fournit une remédiation rapide pour les dégâts d'eau, les dommages causés par le feu, les inondations et autres sinistres. Intervention rapide pour restaurer votre propriété."
+  },
+  "hero": {
+    "title": "Services de récupération et restauration après sinistre",
+    "description": "Intervention rapide pour les dégâts d'eau, les dommages causés par le feu, et plus encore.",
+    "image": "/images/disaster-recovery/disaster-recovery.webp",
+    "ctaText": "Appelez maintenant",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Réponse rapide en cas de sinistre",
+    "image": "/images/disaster-recovery/disaster-recovery.webp",
+    "imageAlt": "Disaster recovery installation in Montreal",
+    "items": [
+      {
+        "description": "Lorsqu'un sinistre frappe votre maison ou votre entreprise, chaque minute compte. Dilamco fournit des services d'intervention d'urgence dans toute la région de Montréal pour répondre rapidement aux dégâts d'eau, aux dommages causés par le feu et à d'autres situations de sinistre."
+      },
+      {
+        "description": "Notre équipe expérimentée arrive rapidement avec un équipement spécialisé pour évaluer les dommages et commencer immédiatement les efforts d'atténuation. Nous travaillons efficacement pour prévenir d'autres dommages et commencer le processus de restauration aussi rapidement que possible."
+      },
+      {
+        "description": "De l'extraction d'eau d'urgence au nettoyage des dommages causés par le feu, nos services complets de récupération après sinistre aident les propriétaires de Montréal à retrouver une vie normale après des événements inattendus."
+      }
+    ]
+  },
+  "services": {
+    "title": "Nos services de récupération après sinistre",
+    "items": [
+      {
+        "title": "Restauration des dégâts d'eau",
+        "icon": "droplets",
+        "description": "Réponse rapide aux inondations, aux tuyaux éclatés, aux refoulements d'égouts et aux infiltrations d'eau. Nous extrayons l'eau, séchons les structures et restaurons les zones endommagées avec un équipement professionnel."
+      },
+      {
+        "title": "Réparation des dommages causés par le feu et la fumée",
+        "icon": "flame",
+        "description": "Nettoyage complet et restauration après un incendie. Nous éliminons la suie, éliminons les odeurs persistantes et reconstruisons les structures endommagées selon les normes les plus élevées."
+      },
+      {
+        "title": "Assainissement des moisissures et décontamination",
+        "icon": "cloud-rain",
+        "description": "Élimination sécuritaire des moisissures et des contaminants suite à des dégâts d'eau. Nous identifions et éliminons les sources de moisissure pour protéger votre santé et celle de votre famille."
+      },
+      {
+        "title": "Intervention d'urgence 24/7",
+        "icon": "clock",
+        "description": "Disponibilité pour les situations d'urgence avec extraction d'eau rapide, séchage immédiat et documentation complète pour les réclamations d'assurance. Réponse garantie dans les plus brefs délais."
+      },
+      {
+        "title": "Assistance réclamations d'assurance",
+        "icon": "shield",
+        "description": "Documentation détaillée des dommages, estimations précises et communication directe avec votre compagnie d'assurance pour simplifier le processus de réclamation et maximiser votre compensation."
+      },
+      {
+        "title": "Restauration complète",
+        "icon": "house",
+        "description": "Reconstruction et restauration complète de votre propriété à son état d'avant le sinistre, incluant tous les travaux de finition et de remise en état nécessaires."
+      }
+    ]
+  },
+  "process": {
+    "title": "Notre processus de récupération après sinistre",
+    "items": [
+      {
+        "number": "1",
+        "title": "Réponse d'urgence",
+        "description": "Notre équipe arrive rapidement pour évaluer les dommages et commencer immédiatement les efforts d'atténuation. Intervention garantie dans les plus brefs délais."
+      },
+      {
+        "number": "2",
+        "title": "Atténuation des dommages",
+        "description": "Nous prenons des mesures immédiates pour prévenir d'autres dommages et sécuriser votre propriété. Documentation complète pour les assurances."
+      },
+      {
+        "number": "3",
+        "title": "Nettoyage et restauration",
+        "description": "Notre équipe qualifiée nettoie, répare et restaure les zones endommagées à leur état d'avant le sinistre avec des matériaux et techniques de qualité supérieure."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Intervention d'urgence, restauration professionnelle",
+    "ctaText": "Appelez notre ligne d'urgence",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Disponibilité 24/7",
+        "description": "Notre équipe d'intervention d'urgence est disponible 24 heures sur 24, 7 jours sur 7 pour répondre rapidement aux situations de sinistre et minimiser les dommages à votre propriété."
+      },
+      {
+        "title": "Équipement spécialisé",
+        "description": "Nous utilisons un équipement professionnel de pointe pour l'extraction d'eau, le séchage, la décontamination et la restauration, garantissant des résultats efficaces et durables."
+      },
+      {
+        "title": "Expertise en assurances",
+        "description": "Notre équipe a une vaste expérience des réclamations d'assurance et travaille directement avec votre compagnie pour simplifier le processus et maximiser votre compensation."
+      },
+      {
+        "title": "Restauration complète",
+        "description": "Nous nous occupons de tous les aspects de la restauration, du nettoyage d'urgence à la reconstruction finale, pour ramener votre propriété à son état d'avant le sinistre."
+      }
+    ]
+  }
+}

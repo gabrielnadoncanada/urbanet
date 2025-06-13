@@ -1,0 +1,18 @@
+{
+  "services": "Services",
+  "residential": "Residential",
+  "aboutUs": "About Us",
+  "contactUs": "Contact Us",
+  "language": "Language",
+  "residentialConstruction": "Residential Construction",
+  "commercialConstruction": "Commercial Construction",
+  "customCabinets": "Custom Cabinets & Closets",
+  "disasterRecovery": "Disaster Recovery",
+  "residentialDescription": "Complete home renovation services for Montreal homeowners",
+  "allResidentialServices": "All Residential Services",
+  "allResidentialDescription": "View all our residential construction and renovation services",
+  "homeExtensions": "Home Extensions",
+  "doorsWindows": "Doors & Windows",
+  "kitchenBathroom": "Kitchen & Bathroom Renovations",
+  "flooring": "Flooring Installation"
+}

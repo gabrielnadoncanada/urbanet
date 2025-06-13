@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "meta_title": "Rallonges de maison – Entrepreneurs en agrandissement | Dilamco",
+    "meta_description": "Besoin de plus d'espace? Dilamco construit des rallonges de maison. Entrepreneurs experts en agrandissement de maison pour agrandir votre espace de vie – de la conception à la construction."
+  },
+  "hero": {
+    "title": "Rallonges et agrandissements de maison",
+    "description": "Agrandissez votre espace de vie avec une rallonge ou un agrandissement de maison personnalisé.",
+    "image": "/images/residential/home-extensions/home-extensions.webp",
+    "ctaText": "Contactez-nous",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Agrandissez l'espace de votre maison",
+    "image": "/images/residential/home-extensions/seamless-home-extension-integration.webp",
+    "imageAlt": "Home extensions installation in Montreal",
+    "items": [
+      {
+        "description": "Besoin de plus d'espace pour votre famille qui s'agrandit? Vous souhaitez ajouter de la valeur à votre propriété? Une rallonge ou un agrandissement de maison est la solution parfaite pour les propriétaires montréalais qui aiment leur emplacement mais ont besoin de plus d'espace."
+      },
+      {
+        "description": "Chez Dilamco, nous nous spécialisons dans la conception et la construction de rallonges de maison de haute qualité qui s'intègrent parfaitement à votre structure existante. Que vous souhaitiez ajouter un deuxième étage, agrandir votre cuisine, construire une nouvelle salle familiale ou créer un appartement pour belle-famille, notre équipe a l'expertise nécessaire pour donner vie à votre vision."
+      },
+      {
+        "description": "Nos rallonges sont conçues pour correspondre au style architectural de votre maison et maximiser la fonctionnalité, créant un aspect cohérent qui améliore la valeur et l'attrait de votre propriété."
+      }
+    ]
+  },
+  "services": {
+    "title": "Nos services de rallonge de maison",
+    "items": [
+      {
+        "title": "Ajouts d'étages",
+        "icon": "building",
+        "description": "Maximisez la superficie et la valeur de votre propriété en ajoutant un ou plusieurs étages. Profitez d'espaces de vie supplémentaires adaptés à vos besoins, tout en améliorant l'esthétique et le rendement de votre investissement immobilier grâce à une conception architecturale sur mesure."
+      },
+      {
+        "title": "Rallonges arrière et latérales",
+        "icon": "move-horizontal",
+        "description": "Étendez votre espace de vie avec des rallonges arrière ou latérales parfaitement intégrées à la structure existante. Bénéficiez de surfaces optimisées, d'une meilleure fonctionnalité et d'une valeur ajoutée significative, tout en conservant l'harmonie architecturale de votre maison."
+      },
+      {
+        "title": "Rallonges de cuisine",
+        "icon": "chef-hat",
+        "description": "Modernisez et agrandissez votre cuisine pour créer un espace convivial, fonctionnel et lumineux. Offrez-vous un lieu de rassemblement optimisé, doté de rangements intelligents et d'un aménagement adapté à vos habitudes de vie, tout en augmentant l'attrait et la valeur de votre résidence."
+      },
+      {
+        "title": "Ajouts de salles familiales",
+        "icon": "users",
+        "description": "Créez un espace familial spacieux et polyvalent qui s'adapte à toutes vos activités : jeux, détente, cinéma ou réceptions. Valorisez votre maison en offrant à votre famille un lieu central, confortable et baigné de lumière, pensé pour favoriser la convivialité au quotidien."
+      },
+      {
+        "title": "Ajouts de suites principales",
+        "icon": "bed",
+        "description": "Offrez-vous une suite principale élégante avec salle de bain privée, walk-in et espace détente. Transformez votre chambre en véritable sanctuaire de confort et de luxe, rehaussant ainsi la qualité de vie et la valeur perçue de votre propriété."
+      },
+      {
+        "title": "Appartements pour belle-famille",
+        "icon": "home",
+        "description": "Ajoutez un appartement indépendant conçu pour accueillir la belle-famille, des invités ou générer des revenus locatifs. Bénéficiez d'un espace autonome, confortable et entièrement équipé, tout en maximisant la flexibilité d'utilisation et la rentabilité de votre habitation."
+      }
+    ]
+  },
+  "process": {
+    "title": "Notre processus d'agrandissement de maison",
+    "items": [
+      {
+        "number": "1",
+        "title": "Consultation et conception",
+        "description": "Nous commençons par une consultation à domicile pour comprendre vos besoins et votre vision. Notre équipe de conception crée ensuite des plans détaillés pour votre rallonge, en s'assurant qu'elle complète votre maison existante."
+      },
+      {
+        "number": "2",
+        "title": "Permis et préparation",
+        "description": "Nous nous occupons de tous les permis nécessaires auprès des autorités et préparons votre propriété pour la construction, en assurant la conformité aux codes et réglementations du bâtiment locaux."
+      },
+      {
+        "number": "3",
+        "title": "Construction et achèvement",
+        "description": "Notre équipe qualifiée construit votre rallonge avec des matériaux et un savoir-faire de qualité. Nous gérons l'ensemble du processus et assurons une intégration harmonieuse avec votre maison existante."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Construction de qualité, expertise locale",
+    "ctaText": "Contactez-nous",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Construit pour durer",
+        "description": "Nous utilisons uniquement des matériaux et des techniques de construction de haute qualité pour garantir que votre rallonge de maison résiste à l'épreuve du temps. Notre attention aux détails signifie que votre ajout sera structurellement solide et écoénergétique."
+      },
+      {
+        "title": "Expertise en construction",
+        "description": "En tant qu'entrepreneur local de Montréal, nous comprenons les défis uniques de la construction dans les différents quartiers de la ville. Nous connaissons bien les codes du bâtiment locaux, les exigences en matière de permis et les styles architecturaux."
+      },
+      {
+        "title": "Perturbation minimale",
+        "description": "Nous travaillons efficacement pour minimiser les perturbations de votre vie quotidienne pendant la construction. Notre équipe maintient le site propre et organisé, et nous communiquons régulièrement sur les progrès et les délais."
+      },
+      {
+        "title": "Service complet",
+        "description": "De la conception initiale aux touches finales, nous gérons tous les aspects de votre projet de rallonge de maison. Cela comprend l'électricité, la plomberie, le CVC, l'isolation et les finitions intérieures."
+      }
+    ]
+  }
+}

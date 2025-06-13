@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "meta_title": "Home Extensions – Addition Contractors Montreal | Dilamco",
+    "meta_description": "Need more space? Dilamco builds home extensions. Expert home addition contractors to expand your living space – from design to construction."
+  },
+  "hero": {
+    "title": "Home Extensions and Additions",
+    "description": "Expand your living space with a custom home extension or addition.",
+    "image": "/images/residential/home-extensions/home-extensions.webp",
+    "ctaText": "Contact Us",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Expand Your Home's Space",
+    "image": "/images/residential/home-extensions/seamless-home-extension-integration.webp",
+    "imageAlt": "Home extensions installation in Montreal",
+    "items": [
+      {
+        "description": "Need more space for your growing family? Want to add value to your property? A home extension or addition is the perfect solution for Montreal homeowners who love their location but need more space."
+      },
+      {
+        "description": "At Dilamco, we specialize in designing and building high-quality home extensions that seamlessly integrate with your existing structure. Whether you want to add a second story, expand your kitchen, build a new family room, or create an in-law suite, our team has the expertise to bring your vision to life."
+      },
+      {
+        "description": "Our extensions are designed to match your home's architectural style and maximize functionality, creating a cohesive look that enhances your property's value and appeal."
+      }
+    ]
+  },
+  "services": {
+    "title": "Our Home Extension Services",
+    "items": [
+      {
+        "title": "Story Additions",
+        "icon": "building",
+        "description": "Maximize your property's square footage and value by adding one or more stories. Enjoy additional living spaces tailored to your needs, while improving the aesthetics and return on your real estate investment through custom architectural design."
+      },
+      {
+        "title": "Rear and Side Extensions",
+        "icon": "move-horizontal",
+        "description": "Extend your living space with rear or side extensions perfectly integrated with the existing structure. Benefit from optimized surfaces, better functionality, and significant added value, while maintaining the architectural harmony of your home."
+      },
+      {
+        "title": "Kitchen Extensions",
+        "icon": "chef-hat",
+        "description": "Modernize and expand your kitchen to create a friendly, functional, and bright space. Treat yourself to an optimized gathering place, equipped with smart storage and a layout adapted to your lifestyle, while increasing the appeal and value of your residence."
+      },
+      {
+        "title": "Family Room Additions",
+        "icon": "users",
+        "description": "Create a spacious and versatile family space that adapts to all your activities: games, relaxation, cinema, or receptions. Enhance your home by offering your family a central, comfortable, and light-filled place, designed to promote daily conviviality."
+      },
+      {
+        "title": "Master Suite Additions",
+        "icon": "bed",
+        "description": "Treat yourself to an elegant master suite with private bathroom, walk-in closet, and relaxation space. Transform your bedroom into a true sanctuary of comfort and luxury, thus enhancing the quality of life and perceived value of your property."
+      },
+      {
+        "title": "In-Law Suites",
+        "icon": "home",
+        "description": "Add an independent apartment designed to accommodate in-laws, guests, or generate rental income. Benefit from an autonomous, comfortable, and fully equipped space, while maximizing usage flexibility and your home's profitability."
+      }
+    ]
+  },
+  "process": {
+    "title": "Our Home Extension Process",
+    "items": [
+      {
+        "number": "1",
+        "title": "Consultation and Design",
+        "description": "We start with an in-home consultation to understand your needs and vision. Our design team then creates detailed plans for your extension, ensuring it complements your existing home."
+      },
+      {
+        "number": "2",
+        "title": "Permits and Preparation",
+        "description": "We handle all necessary permits with authorities and prepare your property for construction, ensuring compliance with local building codes and regulations."
+      },
+      {
+        "number": "3",
+        "title": "Construction and Completion",
+        "description": "Our skilled team builds your extension with quality materials and craftsmanship. We manage the entire process and ensure seamless integration with your existing home."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Quality Construction, Local Expertise",
+    "ctaText": "Contact Us",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Built to Last",
+        "description": "We use only high-quality materials and construction techniques to ensure your home extension stands the test of time. Our attention to detail means your addition will be structurally sound and energy-efficient."
+      },
+      {
+        "title": "Construction Expertise",
+        "description": "As a local Montreal contractor, we understand the unique challenges of building in the city's various neighborhoods. We're well-versed in local building codes, permit requirements, and architectural styles."
+      },
+      {
+        "title": "Minimal Disruption",
+        "description": "We work efficiently to minimize disruption to your daily life during construction. Our team keeps the site clean and organized, and we communicate regularly about progress and timelines."
+      },
+      {
+        "title": "Full Service",
+        "description": "From initial design to final touches, we handle all aspects of your home extension project. This includes electrical, plumbing, HVAC, insulation, and interior finishes."
+      }
+    ]
+  }
+}

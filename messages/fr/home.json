@@ -1,0 +1,85 @@
+{
+  "seo": {
+    "meta_title": "Entrepreneur général - Construction et rénovation | Dilamco",
+    "meta_description": "Entrepreneur général de confiance offrant des services de construction résidentielle, commerciale et de récupération après sinistre."
+  },
+  "hero": {
+    "items": [
+      {
+        "title": "Experts en construction et rénovation",
+        "description": "Dilamco est votre entrepreneur général de confiance pour les services de construction résidentielle et commerciale, de rénovation et de récupération après sinistre.",
+        "ctaText": "Demander un devis",
+        "ctaLink": "/contact",
+        "image": "/images/envato-labs-image-edit - Copy.png"
+      }
+    ]
+  },
+  "intro": {
+    "title": "Travail de qualité et expertise de confiance",
+    "image": "/images/residential/kitchen-bathroom-renovations/kitchen-bathroom-renovations.webp",
+    "items": [
+      {
+        "description": "Avec plus de 20 ans d'expérience, Dilamco s'est bâti une réputation d'excellence en construction et en rénovation. Notre équipe de professionnels qualifiés s'engage à fournir des résultats de haute qualité, dans les délais et le budget prévus."
+      },
+      {
+        "description": "Nous sommes fiers de notre attention aux détails, de l'utilisation de matériaux de qualité et de notre dévouement à la satisfaction du client. Des petites rénovations aux projets de construction à grande échelle, nous abordons chaque travail avec le même niveau de soin et de professionnalisme."
+      }
+    ]
+  },
+  "services": {
+    "title": "Nos services résidentiels et commerciaux",
+    "items": [
+      {
+        "title": "Construction résidentielle",
+        "description": "Rénovations complètes de maisons, rallonges, rénovations de cuisines et salles de bain, et plus encore.",
+        "icon": "house",
+        "link": "/residential-construction-renovation",
+        "image": "/images/residential/residential-construction-renovation-banner.webp"
+      },
+      {
+        "title": "Construction commerciale",
+        "description": "Services de construction et de rénovation de bureaux, commerces et entrepôts.",
+        "icon": "building",
+        "link": "/commercial-construction-renovation",
+        "image": "/images/commercial/commercial-build-out.webp"
+      },
+      {
+        "title": "Armoires et placards sur mesure",
+        "description": "Armoires de cuisine, meubles-lavabos et organisateurs de placards sur mesure.",
+        "icon": "wrench",
+        "link": "/custom-cabinets-closets",
+        "image": "/images/custom-cabinets-closets/custom-cabinets-closets.webp"
+      },
+      {
+        "title": "Récupération après sinistre",
+        "description": "Intervention rapide pour dégâts d'eau, dommages causés par le feu, et plus encore.",
+        "icon": "shield",
+        "link": "/disaster-recovery",
+        "image": "/images/disaster-recovery/disaster-recovery.webp"
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Pourquoi choisir Dilamco ?",
+    "ctaText": "Contactez-nous",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Expérience et expertise",
+        "description": "Notre équipe a plus de 20 ans d'expérience dans la construction et la rénovation."
+      },
+      {
+        "title": "Qualité et fiabilité",
+        "description": "Nous utilisons des matériaux de haute qualité et nous nous engageons à fournir des résultats de haute qualité."
+      },
+      {
+        "title": "Service client",
+        "description": "Nous sommes fiers de notre service client et nous nous engageons à fournir un service de qualité."
+      },
+      {
+        "title": "Prix compétitifs",
+        "description": "Nous offrons des prix compétitifs et nous nous engageons à fournir un service de qualité."
+      }
+    ]
+  }
+}

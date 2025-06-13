@@ -1,0 +1,41 @@
+{
+  "seo": {
+    "meta_title": "Contact Dilamco – Montreal Construction Services",
+    "meta_description": "Get in touch with Dilamco for a free quote or consultation. We serve Montreal and surrounding areas – call or email our team today to discuss your project."
+  },
+  "hero": {
+    "title": "Contact Dilamco",
+    "description": "Get in touch with our Montreal team to discuss your construction or renovation project. We offer free consultations and detailed quotes.",
+    "image": "/images/contact/contact-hero.webp",
+    "ctaText": "Contact Us",
+    "ctaLink": "/contact"
+  },
+  "phone": "Phone",
+  "phoneDescription": "Call us for a free consultation",
+  "sms": "Text Message",
+  "smsDescription": "Send us a text message directly",
+  "email": "Email",
+  "emailDescription": "Send us your inquiries",
+  "address": "Address",
+  "addressDescription": "Visit our office in Montreal",
+  "sendMessage": "Send Us a Message",
+  "sendMessageDescription": "Fill out the form below to get in touch with our team. We'll respond to your inquiry as soon as possible.",
+  "ourLocation": "Our Location",
+  "businessHours": "Business Hours",
+  "monday": "Monday - Friday",
+  "saturday": "Saturday",
+  "sunday": "Sunday",
+  "closed": "Closed",
+  "withAppointment": "By appointment",
+  "emergency": "Emergency Services Available",
+  "servingMontreal": "Serving Montreal and Surrounding Areas",
+  "servingMontrealDescription": "Dilamco proudly serves clients throughout the Greater Montreal area, including Laval, South Shore, West Island, and beyond. Contact us today to discuss your project, no matter where you're located in the region.",
+  "getInTouch": "Get in Touch",
+  "getInTouchDescription": "Multiple ways to reach us to discuss your construction or renovation project.",
+  "faq": "Frequently Asked Questions",
+  "faqDescription": "Find quick answers to the most common questions about our services.",
+  "readyToStart": "Ready to Start Your Project?",
+  "readyToStartDescription": "Contact us today to discuss your project and get a free quote. Our team is ready to help you bring your vision to life.",
+  "callUsNow": "Call Us Now",
+  "sendAMessage": "Send a Message"
+}

@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "meta_title": "Installation de fenêtres et portes | Rénovations résidentielles Dilamco",
+    "meta_description": "Installation experte de portes et fenêtres. Dilamco offre des remplacements de fenêtres écoénergétiques et des mises à niveau de portes élégantes pour améliorer le confort et l'attrait extérieur de votre maison."
+  },
+  "hero": {
+    "title": "Installation et remplacement de portes et fenêtres",
+    "description": "Améliorez l'efficacité énergétique, la sécurité et l'attrait extérieur avec des portes et fenêtres de haute qualité.",
+    "image": "/images/residential/doors-windows/doors-windows-banner.webp",
+    "ctaText": "Contactez-nous",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Améliorez vos portes et fenêtres",
+    "image": "/images/residential/doors-windows/windows-doors-installation.webp",
+    "imageAlt": "Doors and windows installation in Montreal",
+    "items": [
+      {
+        "description": "Les nouvelles portes et fenêtres sont l'une des améliorations les plus importantes que vous puissiez apporter à votre maison. Elles améliorent l'apparence de votre maison, augmentent l'efficacité énergétique, renforcent la sécurité et peuvent considérablement augmenter la valeur de votre propriété."
+      },
+      {
+        "description": "Chez Dilamco, nous nous spécialisons dans les services professionnels d'installation et de remplacement de portes et fenêtres. Notre équipe expérimentée assure une installation précise pour une performance et une longévité optimales, quel que soit le style ou le type de fenêtres et de portes que vous choisissez."
+      },
+      {
+        "description": "Des portes d'entrée élégantes qui font une déclaration aux fenêtres écoénergétiques qui gardent les hivers froids de Montréal à distance, nous fournissons des produits de qualité et une installation experte pour chaque projet."
+      }
+    ]
+  },
+  "services": {
+    "title": "Nos services de portes et fenêtres",
+    "items": [
+      {
+        "title": "Fenêtres écoénergétiques",
+        "icon": "zap",
+        "description": "Le climat de Montréal exige des fenêtres qui peuvent résister à des variations de température extrêmes. Nos fenêtres écoénergétiques à double et triple vitrage avec options de cadres en vinyle, aluminium ou bois sont spécifiquement sélectionnées pour fonctionner dans nos conditions locales, vous aidant à économiser sur les coûts de chauffage et de climatisation toute l'année."
+      },
+      {
+        "title": "Fenêtres spécialisées",
+        "icon": "square",
+        "description": "Transformez l'apparence et la fonctionnalité de votre maison avec nos fenêtres spécialisées, incluant les fenêtres à battant, coulissantes, à guillotine, en baie et en arc. Nous proposons également des formes et tailles personnalisées pour s'adapter parfaitement à votre espace et à votre style architectural."
+      },
+      {
+        "title": "Portes d'entrée",
+        "icon": "door-open",
+        "description": "Votre porte d'entrée fait une déclaration sur votre maison et offre une sécurité essentielle. Notre sélection de portes d'entrée en acier, fibre de verre et bois combine beauté, durabilité et caractéristiques de sécurité pour protéger votre maison tout en améliorant son attrait extérieur."
+      },
+      {
+        "title": "Portes-fenêtres et portes françaises",
+        "icon": "door-closed",
+        "description": "Maximisez la lumière naturelle et créez un accès transparent aux espaces extérieurs avec nos portes-fenêtres coulissantes et portes françaises. Ces options élégantes combinent fonctionnalité et style, ajoutant une touche d'élégance à votre maison."
+      },
+      {
+        "title": "Portes de sécurité",
+        "icon": "shield-check",
+        "description": "Protégez votre maison avec nos portes de sécurité équipées de systèmes de verrouillage avancés. Nos options combinent sécurité renforcée et design élégant, vous offrant tranquillité d'esprit sans compromettre l'esthétique de votre maison."
+      },
+      {
+        "title": "Contre-portes et moustiquaires",
+        "icon": "grid-3x3",
+        "description": "Complétez votre installation avec des contre-portes durables et des moustiquaires efficaces qui vous permettent de profiter de l'air frais tout en maintenant les insectes à l'extérieur. Ces options pratiques prolongent également la durée de vie de vos portes principales."
+      }
+    ]
+  },
+  "process": {
+    "title": "Notre processus d'installation",
+    "items": [
+      {
+        "number": "1",
+        "title": "Consultation et mesures",
+        "description": "Nous commençons chaque projet par une consultation détaillée pour comprendre vos besoins, suivie d'une prise de mesures rigoureuse pour garantir une adaptation sur mesure de vos portes et fenêtres."
+      },
+      {
+        "number": "2",
+        "title": "Sélection et fabrication",
+        "description": "Nous vous aidons à sélectionner les meilleures options pour votre maison et votre budget. Vos portes et fenêtres sont ensuite fabriquées selon vos spécifications exactes avec des matériaux de haute qualité."
+      },
+      {
+        "number": "3",
+        "title": "Installation professionnelle",
+        "description": "Nos experts installent vos nouvelles portes et fenêtres avec le souci du détail, garantissant une étanchéité parfaite, une isolation thermique et acoustique supérieure, tout en minimisant l'impact sur votre quotidien."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Les avantages des nouvelles portes et fenêtres",
+    "ctaText": "Contactez-nous",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Économies d'énergie",
+        "description": "Les portes et fenêtres modernes écoénergétiques peuvent réduire considérablement vos coûts de chauffage et de climatisation en empêchant les fuites d'air et en fournissant une meilleure isolation."
+      },
+      {
+        "title": "Confort et tranquillité",
+        "description": "Éliminez les courants d'air et les points froids près des fenêtres et des portes, tout en réduisant le bruit extérieur, créant un environnement domestique plus confortable, constant et paisible en toutes saisons."
+      },
+      {
+        "title": "Sécurité renforcée",
+        "description": "Les portes et fenêtres modernes comportent des mécanismes de verrouillage avancés et des matériaux plus solides pour mieux protéger votre maison et votre famille contre les intrusions."
+      },
+      {
+        "title": "Valeur ajoutée",
+        "description": "Les nouvelles portes et fenêtres offrent l'un des meilleurs retours sur investissement pour les améliorations domiciliaires, augmentant l'attrait extérieur et la valeur marchande de votre propriété."
+      }
+    ]
+  }
+}

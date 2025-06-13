@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "meta_title": "Rénovations de cuisine et salle de bain | Dilamco",
+    "meta_description": "Transformez votre maison avec des rénovations modernes de cuisine et salle de bain. Dilamco offre des rénovations de cuisine personnalisées et des transformations de salle de bain avec un savoir-faire de qualité."
+  },
+  "hero": {
+    "title": "Rénovation de cuisine et salle de bain",
+    "description": "Redonnez vie à votre cuisine et votre salle de bain avec des espaces modernes, fonctionnels et à votre image.",
+    "image": "/images/residential/kitchen-bathroom-renovations/kitchen-bathroom-renovations.webp",
+    "ctaText": "Contactez-nous",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Transformez votre cuisine et votre salle de bain",
+    "image": "/images/residential/kitchen-bathroom-renovations/bathroom-renovations.webp",
+    "imageAlt": "Kitchen and bathroom renovations in Montreal",
+    "items": [
+      {
+        "description": "Rénover la cuisine et la salle de bain est l'un des meilleurs moyens d'améliorer le confort, la fonctionnalité et la valeur de votre maison. Ce sont des espaces centraux, utilisés chaque jour, qui méritent une attention particulière : une cuisine bien pensée favorise les moments de partage, tandis qu'une salle de bain moderne transforme la routine en véritable moment de détente."
+      },
+      {
+        "description": "Chez Dilamco, nous sommes spécialisés dans la conception et la rénovation sur mesure de cuisines et salles de bain. Notre équipe vous accompagne à chaque étape, du design à l'installation, en choisissant des matériaux de qualité et des solutions adaptées à vos besoins."
+      },
+      {
+        "description": "Offrez-vous des espaces modernes, élégants et durables, réalisés par des experts passionnés qui ont à cœur la réussite de votre projet."
+      }
+    ]
+  },
+  "services": {
+    "title": "Nos services de rénovation",
+    "items": [
+      {
+        "title": "Rénovation de cuisine complète",
+        "icon": "chef-hat",
+        "description": "Transformez votre cuisine en un espace moderne, fonctionnel et élégant avec notre service de rénovation complète. De la conception personnalisée aux finitions, nous créons un espace qui reflète votre style et répond à vos besoins quotidiens."
+      },
+      {
+        "title": "Rénovation de salle de bain",
+        "icon": "bath",
+        "description": "Dilamco transforme votre salle de bain en un espace élégant, pratique et confortable, parfaitement adapté à votre style. Nous installons et rénovons douches, baignoires et vanités pour créer une salle de bain à la fois élégante et fonctionnelle."
+      },
+      {
+        "title": "Armoires et comptoirs",
+        "icon": "cabinet",
+        "description": "Améliorez l'apparence et la fonctionnalité de votre cuisine ou salle de bain avec nos armoires et comptoirs de qualité supérieure. Nous proposons une large gamme de styles, de matériaux et de finitions pour s'adapter à votre budget et à vos préférences esthétiques."
+      },
+      {
+        "title": "Planchers et revêtements",
+        "icon": "square-stack",
+        "description": "Complétez votre rénovation avec des planchers et revêtements muraux durables et élégants. Notre équipe installe des carrelages, dosserets et planchers qui résistent à l'épreuve du temps tout en rehaussant l'esthétique de votre espace."
+      },
+      {
+        "title": "Éclairage et électricité",
+        "icon": "lightbulb",
+        "description": "Optimisez l'ambiance et la fonctionnalité de votre espace avec nos solutions d'éclairage et d'électricité. Nous installons des systèmes d'éclairage écoénergétiques qui mettent en valeur votre nouvelle cuisine ou salle de bain."
+      },
+      {
+        "title": "Plomberie et fixtures",
+        "icon": "wrench",
+        "description": "Modernisez votre plomberie et vos fixtures pour améliorer l'efficacité et le style de votre cuisine ou salle de bain. Nous installons des robinets, éviers, douches et baignoires de qualité qui allient esthétique et performance."
+      }
+    ]
+  },
+  "process": {
+    "title": "Notre processus de rénovation",
+    "items": [
+      {
+        "number": "1",
+        "title": "Consultation et conception",
+        "description": "Nous discutons de vos besoins et créons des plans sur mesure pour optimiser l'espace, l'esthétique et la fonctionnalité de votre cuisine ou salle de bain."
+      },
+      {
+        "number": "2",
+        "title": "Sélection et préparation",
+        "description": "Nous vous guidons dans le choix des matériaux de qualité, planifions chaque étape du chantier et préparons votre maison pour des travaux sans surprises."
+      },
+      {
+        "number": "3",
+        "title": "Installation et finition",
+        "description": "Notre équipe réalise l'installation avec soin et efficacité, assure un suivi constant, et vous livre un espace prêt à vivre, conforme à vos attentes."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Expertise locale, qualité supérieure",
+    "ctaText": "Contactez-nous",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Matériaux premium",
+        "description": "Nous utilisons uniquement des matériaux de haute qualité dans nos rénovations pour assurer la durabilité, la beauté et la longévité de votre cuisine ou salle de bain."
+      },
+      {
+        "title": "Artisans qualifiés",
+        "description": "Notre équipe comprend des architectes, charpentiers, plombiers, électriciens et carreleurs expérimentés qui sont fiers de leur travail et de leur attention aux détails."
+      },
+      {
+        "title": "Processus transparent",
+        "description": "Nous croyons en une communication claire tout au long de votre rénovation. Des devis détaillés aux mises à jour régulières sur les progrès, vous saurez toujours ce qui se passe avec votre projet."
+      },
+      {
+        "title": "Expertise locale",
+        "description": "En tant qu'entreprise basée à Montréal, nous comprenons les caractéristiques uniques des maisons locales et les défis spécifiques qu'elles présentent, garantissant que votre projet respecte toutes les réglementations."
+      }
+    ]
+  }
+}

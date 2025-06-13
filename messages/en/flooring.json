@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "meta_title": "Hardwood & Ceramic Flooring Installation Montreal | Dilamco",
+    "meta_description": "Professional flooring installation services. Dilamco installs hardwood, laminate, and ceramic flooring with expert precision. Upgrade your home's floors today."
+  },
+  "hero": {
+    "title": "Hardwood & Ceramic Flooring Installation",
+    "description": "Transform your home with beautiful new floors installed by Dilamco's expert team.",
+    "image": "/images/residential/flooring-installation/hardwood-flooring-installation.webp",
+    "ctaText": "Contact Us",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Transform Your Home with New Flooring",
+    "image": "/images/residential/flooring-installation/ceramic-tile-flooring-installation.webp",
+    "imageAlt": "Flooring installation in Montreal",
+    "items": [
+      {
+        "description": "Flooring is one of the most important elements of your home, influencing both the aesthetics and functionality of every room. Whether you want the warmth and elegance of hardwood, the durability of ceramic, or the versatility of modern coverings, the right flooring choice can completely transform your living space."
+      },
+      {
+        "description": "At Dilamco, we specialize in professional installation of all types of flooring for Montreal homes. Our expert team works with a variety of materials and installation techniques to create beautiful, durable floors perfectly suited to your lifestyle."
+      },
+      {
+        "description": "From subfloor preparation to final finishes, we take care of every detail to guarantee an impeccable result that will add value and beauty to your home for decades."
+      }
+    ]
+  },
+  "services": {
+    "title": "Our Flooring Installation Services",
+    "items": [
+      {
+        "title": "Hardwood Flooring Installation",
+        "icon": "tree-pine",
+        "description": "Installation and refinishing of solid and engineered hardwood floors. We work with various wood species, finishes, and custom patterns to create the perfect floor that adds warmth, beauty, and value to your home."
+      },
+      {
+        "title": "Ceramic and Porcelain Flooring",
+        "icon": "square-stack",
+        "description": "Installation of ceramic and porcelain tiles for exceptional durability and water resistance. Perfect for bathrooms, kitchens, and high-traffic areas with precise cuts and uniform grout lines."
+      },
+      {
+        "title": "Natural Stone and Decorative Tile",
+        "icon": "gem",
+        "description": "Installation of natural stone tiles (marble, granite, slate) and decorative tile with custom patterns. We create unique designs that reflect your personal style and enhance the aesthetics of your space."
+      },
+      {
+        "title": "Modern Floor Coverings",
+        "icon": "layers",
+        "description": "Installation of luxury vinyl (LVT/LVP), laminate flooring, and other modern coverings. These options offer the appearance of wood or stone with superior ease of maintenance and water resistance."
+      },
+      {
+        "title": "Heated Flooring",
+        "icon": "thermometer",
+        "description": "Installation of heated flooring systems under tile for optimal comfort. Perfect for bathrooms and other spaces where you want to enjoy warmth under your feet during Montreal's winter months."
+      },
+      {
+        "title": "Refinishing and Repair",
+        "icon": "hammer",
+        "description": "Refinishing of existing hardwood floors and repair of all types of floor coverings. We restore the natural beauty of your floors and extend their lifespan with professional techniques."
+      }
+    ]
+  },
+  "process": {
+    "title": "Our Flooring Installation Process",
+    "items": [
+      {
+        "number": "1",
+        "title": "Assessment and Selection",
+        "description": "We assess your space, discuss your needs, and help you choose the ideal type of flooring. We prepare a detailed quote and plan each stage of the installation."
+      },
+      {
+        "number": "2",
+        "title": "Subfloor Preparation",
+        "description": "We carefully prepare the subfloor, make necessary repairs, and ensure the surface is perfectly level and ready for installation of your new flooring."
+      },
+      {
+        "number": "3",
+        "title": "Installation and Finishing",
+        "description": "Our skilled team installs your flooring with precision, makes all necessary cuts, and applies appropriate finishes. We clean thoroughly and deliver a floor ready to be used."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Professional Installation, Lasting Results",
+    "ctaText": "Contact Our Flooring Experts",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Superior Quality Materials",
+        "description": "We work only with high-quality materials from reputable suppliers. Whether it's hardwood, ceramic, or modern coverings, we guarantee the durability and beauty of your investment."
+      },
+      {
+        "title": "Specialized Technical Expertise",
+        "description": "Our installers possess the technical expertise and specialized tools necessary for perfect installation. We master preparation, expansion, and finishing techniques for each type of material."
+      },
+      {
+        "title": "Knowledge of Montreal Homes",
+        "description": "We understand the unique challenges of Montreal homes, from historic triplexes to modern condos. Our local expertise allows us to recommend the best solutions for your type of dwelling and lifestyle."
+      },
+      {
+        "title": "Complete Warranty",
+        "description": "We offer a complete warranty on our materials and workmanship. Our commitment to quality means you can enjoy your new floors with peace of mind for years to come."
+      }
+    ]
+  }
+}

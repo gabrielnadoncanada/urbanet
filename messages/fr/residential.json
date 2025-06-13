@@ -1,0 +1,75 @@
+{
+  "seo": {
+    "meta_title": "Construction et rénovation résidentielle | Dilamco",
+    "meta_description": "Services de construction et rénovation résidentielle. Dilamco se spécialise dans les rallonges de maison, les rénovations de cuisine, les fenêtres/portes et les planchers. Transformez votre maison avec un entrepreneur de confiance."
+  },
+  "hero": {
+    "title": "Construction et rénovation résidentielle",
+    "description": "Transformez votre maison avec un entrepreneur de confiance de Montréal.",
+    "ctaText": "Contactez-nous",
+    "ctaLink": "/contact",
+    "image": "/images/residential/residential-construction-renovation-banner.webp"
+  },
+  "intro": {
+    "title": "Services complets de construction et rénovation résidentielle",
+    "items": [
+      {
+        "description": "Chez Dilamco, nous offrons une gamme complète de services de construction et de rénovation résidentielle. Notre équipe expérimentée peut gérer des projets de toute taille, des simples mises à jour de pièces aux rénovations complètes de maisons et aux nouvelles constructions."
+      },
+      {
+        "description": "Nous sommes fiers de notre attention aux détails, de notre qualité d'exécution et de notre engagement envers la satisfaction du client. Que vous cherchiez à moderniser votre cuisine, à ajouter plus d'espace de vie ou à améliorer l'extérieur de votre maison, nous avons l'expertise nécessaire pour donner vie à votre vision."
+      }
+    ]
+  },
+  "services": {
+    "items": [
+      {
+        "title": "Rallonges et agrandissements de maison",
+        "description": "Agrandissez votre espace de vie avec une rallonge ou un agrandissement de maison personnalisé. Nous gérons tout, de la conception à la construction, assurant une intégration harmonieuse avec votre maison existante.",
+        "link": "/residential/home-extensions",
+        "image": "/images/residential/home-extensions/home-extensions.webp"
+      },
+      { 
+        "title": "Rénovations de cuisine et salle de bain",
+        "description": "Transformez votre cuisine ou votre salle de bain avec des matériaux de qualité et une installation experte. Nos rénovations améliorent à la fois la fonctionnalité et l'esthétique.",
+        "link": "/residential/kitchen-bathroom-renovations",
+        "image": "/images/residential/kitchen-bathroom-renovations/kitchen-bathroom-renovations.webp"
+      },
+      {
+        "title": "Installation de fenêtres et portes",
+        "description": "Améliorez l'efficacité énergétique et l'attrait extérieur de votre maison avec de nouvelles fenêtres et portes. Nous offrons une large sélection de styles et de matériaux pour tous les budgets.",
+        "link": "/residential/doors-windows",
+        "image": "/images/residential/doors-windows/windows-doors-installation.webp"
+      },
+      {
+        "title": "Installation de planchers",
+        "description": "Améliorez la qualité de vie et la valeur de votre maison avec des planchers de qualité. Nous offrons une large gamme de styles et de matériaux pour tous les budgets.",
+        "link": "/residential/flooring-installation",
+        "image": "/images/residential/flooring-installation/ceramic-tile-flooring-installation.webp"
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Pourquoi choisir Dilamco pour votre rénovation domiciliaire",
+    "ctaText": "Contactez-nous",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Expérience et expertise",
+        "description": "Avec plus de 20 ans dans l'industrie, notre équipe apporte des connaissances et des compétences étendues à chaque projet résidentiel. Nous restons à jour sur les dernières techniques de construction et matériaux."
+      },
+      {
+        "title": "Qualité d'exécution",
+        "description": "Nous sommes fiers de notre attention aux détails et de notre engagement envers l'excellence. Nos artisans qualifiés fournissent un travail supérieur sur chaque projet, grand ou petit."
+      },
+      {
+        "title": "Processus transparent",
+        "description": "Des devis détaillés aux mises à jour régulières sur les progrès, nous maintenons une communication claire tout au long de votre projet. Vous saurez toujours à quoi vous attendre et quand."
+      },
+      {
+        "title": "Connaissance locale",
+        "description": "En tant qu'entreprise basée, nous comprenons les codes du bâtiment locaux, les exigences en matière de permis et les caractéristiques uniques des maisons montréalaises. Notre expertise locale assure une exécution fluide du projet."
+      }
+    ]
+  } 
+}

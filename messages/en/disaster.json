@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "meta_title": "Disaster Restoration & Recovery Montreal – Water & Fire Damage | Dilamco",
+    "meta_description": "Disaster recovery services in Montreal. Dilamco provides fast remediation for water damage, fire damage, flooding, and other disasters. Rapid response to restore your property."
+  },
+  "hero": {
+    "title": "Disaster Recovery & Restoration Services",
+    "description": "Rapid emergency response for water damage, fire damage, and more.",
+    "image": "/images/disaster-recovery/disaster-recovery.webp",
+    "ctaText": "Call Now",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Fast Response When Disaster Strikes",
+    "image": "/images/disaster-recovery/disaster-recovery.webp",
+    "imageAlt": "Disaster recovery installation in Montreal",
+    "items": [
+      {
+        "description": "When disaster strikes your home or business, every minute counts. Dilamco provides emergency response services throughout Montreal and surrounding areas to quickly address water damage, fire damage, and other disaster situations."
+      },
+      {
+        "description": "Our experienced team arrives promptly with specialized equipment to assess the damage and begin immediate mitigation efforts. We work efficiently to prevent further damage and start the restoration process as quickly as possible."
+      },
+      {
+        "description": "From emergency water extraction to fire damage cleanup, our comprehensive disaster recovery services help Montreal property owners get back to normal after unexpected events."
+      }
+    ]
+  },
+  "services": {
+    "title": "Our Disaster Recovery Services",
+    "items": [
+      {
+        "title": "Water Damage Restoration",
+        "icon": "droplets",
+        "description": "Fast response to flooding, burst pipes, sewage backups, and water intrusion. We extract water, dry structures, and restore damaged areas with professional equipment."
+      },
+      {
+        "title": "Fire and Smoke Damage Repair",
+        "icon": "flame",
+        "description": "Comprehensive cleanup and restoration after fire damage. We remove soot, eliminate persistent odors, and rebuild damaged structures to the highest standards."
+      },
+      {
+        "title": "Mold Remediation & Decontamination",
+        "icon": "cloud-rain",
+        "description": "Safe removal of mold and contaminants following water damage. We identify and eliminate mold sources to protect your health and your family's wellbeing."
+      },
+      {
+        "title": "24/7 Emergency Response",
+        "icon": "clock",
+        "description": "Availability for emergency situations with rapid water extraction, immediate drying, and comprehensive documentation for insurance claims. Guaranteed response in the shortest time possible."
+      },
+      {
+        "title": "Insurance Claims Assistance",
+        "icon": "shield",
+        "description": "Detailed damage documentation, accurate estimates, and direct communication with your insurance company to simplify the claims process and maximize your compensation."
+      },
+      {
+        "title": "Complete Restoration",
+        "icon": "house",
+        "description": "Complete reconstruction and restoration of your property to its pre-disaster condition, including all necessary finishing and restoration work."
+      }
+    ]
+  },
+  "process": {
+    "title": "Our Disaster Recovery Process",
+    "items": [
+      {
+        "number": "1",
+        "title": "Emergency Response",
+        "description": "Our team arrives quickly to assess the damage and begin immediate mitigation efforts. Guaranteed response in the shortest time possible."
+      },
+      {
+        "number": "2",
+        "title": "Damage Mitigation",
+        "description": "We take immediate steps to prevent further damage and secure your property. Complete documentation for insurance purposes."
+      },
+      {
+        "number": "3",
+        "title": "Cleanup & Restoration",
+        "description": "Our skilled team cleans, repairs, and restores damaged areas to their pre-disaster condition with superior quality materials and techniques."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Emergency Response, Professional Restoration",
+    "ctaText": "Call Our Emergency Line",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "24/7 Availability",
+        "description": "Our emergency response team is available 24 hours a day, 7 days a week to respond quickly to disaster situations and minimize damage to your property."
+      },
+      {
+        "title": "Specialized Equipment",
+        "description": "We use state-of-the-art professional equipment for water extraction, drying, decontamination, and restoration, ensuring efficient and lasting results."
+      },
+      {
+        "title": "Insurance Expertise",
+        "description": "Our team has extensive experience with insurance claims and works directly with your insurance company to simplify the process and maximize your compensation."
+      },
+      {
+        "title": "Complete Restoration",
+        "description": "We handle all aspects of restoration, from emergency cleanup to final reconstruction, to bring your property back to its pre-disaster condition."
+      }
+    ]
+  }
+}

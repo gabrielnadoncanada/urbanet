@@ -1,0 +1,151 @@
+{
+  "seo": {
+    "meta_title": "À propos de Dilamco – Entrepreneurs en construction et rénovation",
+    "meta_description": "Découvrez Dilamco, un entrepreneur général de confiance avec plus de 20 ans d'expérience dans les services de construction et de rénovation résidentielle et commerciale."
+  },
+  "hero": {
+    "title": "À propos de Dilamco",
+    "description": "Entrepreneur général de confiance avec plus de 20 ans d'expérience en construction et rénovation résidentielle et commerciale.",
+    "image": "/images/hero-accueil-MTL.webp",
+    "ctaText": "Contactez-nous",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Notre histoire",
+    "image": "/images/residential/kitchen-bathroom-renovations/bathroom-renovations.webp",
+    "imageAlt": "Dilamco construction team at work",
+    "items": [
+      {
+        "description": "Depuis plus de 20 ans, Dilamco n'a cessé d'élargir son expertise, intégrant la construction commerciale, la distribution et l'installation de mobilier sur mesure, ainsi que la restauration après sinistre. Tout au long de cette croissance, notre engagement envers l'excellence est demeuré inébranlable. Aujourd'hui, Dilamco est fière d'avoir réalisé des centaines de projets à travers la grande région de Montréal, bâtissant une solide réputation fondée sur la fiabilité, la qualité et l'intégrité."
+      },
+      {
+        "description": "Notre équipe s'est enrichie de talents diversifiés — ouvriers qualifiés, chefs de projet, architectes — tous animés par une même passion : concevoir des espaces qui dépassent les attentes de nos clients."
+      }
+    ],
+    "stats": [
+      {
+        "title": "20+",
+        "description": "Années d'expérience"
+      },
+      {
+        "title": "150+",
+        "description": "Projets complétés"
+      }
+    ]
+  },
+  "services": {
+    "title": "Notre mission et nos valeurs",
+    "items": [
+      {
+        "title": "Notre mission",
+        "icon": "target",
+        "description": "Nous créons des environnements esthétiques et fonctionnels qui répondent aux besoins de nos clients tout en leur offrant une expérience remarquable du début à la fin du projet."
+      },
+      {
+        "title": "Notre vision",
+        "icon": "eye",
+        "description": "L'excellence en construction et rénovation, portée par une culture de qualité, d'innovation et d'écoute — c'est la signature Dilamco."
+      },
+      {
+        "title": "Qualité",
+        "icon": "shield-check",
+        "description": "Nous ne faisons jamais de compromis sur la qualité, en utilisant des matériaux haut de gamme et des techniques éprouvées dans chaque projet."
+      },
+      {
+        "title": "Intégrité",
+        "icon": "handshake",
+        "description": "Nous opérons avec honnêteté et transparence, en établissant une relation de confiance avec nos clients et partenaires."
+      },
+      {
+        "title": "Fiabilité",
+        "icon": "clock",
+        "description": "Nous tenons nos promesses, en livrant les projets dans les délais et les budgets convenus."
+      },
+      {
+        "title": "Orientation client",
+        "icon": "users",
+        "description": "Nous plaçons les besoins et la satisfaction de nos clients au cœur de chaque étape du projet."
+      }
+    ]
+  },
+  "process": {
+    "title": "Notre approche de la construction et de la rénovation",
+    "items": [
+      {
+        "number": "1",
+        "title": "Consultation et planification",
+        "description": "Nous commençons par une consultation approfondie pour comprendre vos besoins, préférences et budget. Notre équipe élabore ensuite un plan et une proposition détaillés, adaptés à votre projet."
+      },
+      {
+        "number": "2",
+        "title": "Conception et préparation",
+        "description": "Notre équipe de conception élabore des plans détaillés et des visualisations de votre projet. Nous nous chargeons de toutes les autorisations nécessaires et préparons le chantier avec le plus grand soin."
+      },
+      {
+        "number": "3",
+        "title": "Construction et finalisation",
+        "description": "Notre équipe qualifiée exécute le projet avec précision et attention. Une communication claire est maintenue tout au long du processus. Nous terminons par une inspection complète pour garantir que tout est conforme à nos normes élevées."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Engagement communautaire",
+    "ctaText": "Contacter notre équipe",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Travail caritatif",
+        "description": "Nous offrons régulièrement des services de construction à des œuvres caritatives locales, y compris des projets de restauration d'habitat et des rénovations de centres communautaires. Notre équipe participe également à des collectes de fonds annuelles pour les hôpitaux pour enfants et les refuges pour sans-abri."
+      },
+      {
+        "title": "Programme d'apprentissage",
+        "description": "Dilamco s'engage à former la prochaine génération de professionnels qualifiés. Notre programme d'apprentissage offre une formation pratique et un mentorat aux jeunes souhaitant faire carrière en construction et rénovation."
+      },
+      {
+        "title": "Expertise locale",
+        "description": "Chez Dilamco, nous croyons en l'importance de redonner à la communauté montréalaise qui a soutenu notre croissance au fil des années. Nous sommes fiers de participer à diverses initiatives communautaires et à des organisations caritatives."
+      },
+      {
+        "title": "Prêt à travailler avec nous ?",
+        "description": "Contactez notre équipe dès aujourd'hui pour discuter de votre projet de construction ou de rénovation. Nous avons hâte de mettre notre expertise, notre savoir-faire et notre approche orientée client au service de votre prochain projet."
+      }
+    ]
+  },
+  "teamMembers": [
+    {
+      "name": "Michel Lambert",
+      "title": "Fondateur et président",
+      "bio": "Fort de plus de 30 ans d'expérience en construction, Michel a fondé Dilamco en 2004 et continue de diriger l'entreprise avec sa vision de qualité et d'excellence."
+    },
+    {
+      "name": "Sophie Tremblay",
+      "title": "Directrice des opérations",
+      "bio": "Sophie supervise toutes les opérations des projets, veillant à ce que chaque réalisation Dilamco respecte les plus hauts standards de qualité et d'efficacité."
+    },
+    {
+      "name": "Jean-Philippe Côté",
+      "title": "Designer principal",
+      "bio": "Jean-Philippe insuffle une vision créative à nos projets, aidant les clients à transformer leurs idées en espaces beaux et fonctionnels."
+    }
+  ],
+  "credentials": {
+    "title": "Nos accréditations et certifications",
+    "licenses": {
+      "title": "Licences et certifications",
+      "items": [
+        "Entrepreneur général licencié (RBQ #8306-0806-27)",
+        "Membre du Conseil de l'enveloppe et de la science du bâtiment du Québec (CESGM)",
+        "Professionnel en construction écologique",
+        "Spécialiste en adaptation résidentielle pour personnes âgées"
+      ]
+    },
+    "insurance": {
+      "title": "Assurances et garanties",
+      "items": [
+        "Entièrement assuré avec une couverture complète en responsabilité civile",
+        "Couverture d'indemnisation pour tous les employés",
+        "Cautionnement pour tous les projets commerciaux"
+      ]
+    }
+  }
+}

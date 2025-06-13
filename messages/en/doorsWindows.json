@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "meta_title": "Door & Window Installation | Dilamco Residential Renovations",
+    "meta_description": "Expert door and window installation. Dilamco offers energy-efficient window replacements and stylish door upgrades to improve your home's comfort and curb appeal."
+  },
+  "hero": {
+    "title": "Door and Window Installation & Replacement",
+    "description": "Improve energy efficiency, security, and curb appeal with high-quality doors and windows.",
+    "image": "/images/residential/doors-windows/doors-windows-banner.webp",
+    "ctaText": "Contact Us",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Upgrade Your Doors and Windows",
+    "image": "/images/residential/doors-windows/windows-doors-installation.webp",
+    "imageAlt": "Doors and windows installation in Montreal",
+    "items": [
+      {
+        "description": "New doors and windows are one of the most important improvements you can make to your home. They improve your home's appearance, increase energy efficiency, enhance security, and can significantly increase your property value."
+      },
+      {
+        "description": "At Dilamco, we specialize in professional door and window installation and replacement services. Our experienced team ensures precise installation for optimal performance and longevity, regardless of the style or type of windows and doors you choose."
+      },
+      {
+        "description": "From elegant entry doors that make a statement to energy-efficient windows that keep Montreal's cold winters at bay, we provide quality products and expert installation for every project."
+      }
+    ]
+  },
+  "services": {
+    "title": "Our Door and Window Services",
+    "items": [
+      {
+        "title": "Energy-Efficient Windows",
+        "icon": "zap",
+        "description": "Montreal's climate demands windows that can withstand extreme temperature variations. Our energy-efficient double and triple-pane windows with vinyl, aluminum, or wood frame options are specifically selected to perform in our local conditions, helping you save on heating and cooling costs year-round."
+      },
+      {
+        "title": "Specialty Windows",
+        "icon": "square",
+        "description": "Transform your home's appearance and functionality with our specialty windows, including casement, sliding, double-hung, bay, and bow windows. We also offer custom shapes and sizes to perfectly fit your space and architectural style."
+      },
+      {
+        "title": "Entry Doors",
+        "icon": "door-open",
+        "description": "Your front door makes a statement about your home and provides essential security. Our selection of steel, fiberglass, and wood entry doors combines beauty, durability, and security features to protect your home while enhancing its curb appeal."
+      },
+      {
+        "title": "Patio Doors and French Doors",
+        "icon": "door-closed",
+        "description": "Maximize natural light and create seamless access to outdoor spaces with our sliding patio doors and French doors. These elegant options combine functionality and style, adding a touch of elegance to your home."
+      },
+      {
+        "title": "Security Doors",
+        "icon": "shield-check",
+        "description": "Protect your home with our security doors equipped with advanced locking systems. Our options combine enhanced security and elegant design, giving you peace of mind without compromising your home's aesthetics."
+      },
+      {
+        "title": "Storm Doors and Screens",
+        "icon": "grid-3x3",
+        "description": "Complete your installation with durable storm doors and effective screens that allow you to enjoy fresh air while keeping insects out. These practical options also extend the life of your main doors."
+      }
+    ]
+  },
+  "process": {
+    "title": "Our Installation Process",
+    "items": [
+      {
+        "number": "1",
+        "title": "Consultation and Measurements",
+        "description": "We begin each project with a detailed consultation to understand your needs, followed by rigorous measurements to ensure a custom fit for your doors and windows."
+      },
+      {
+        "number": "2",
+        "title": "Selection and Manufacturing",
+        "description": "We help you select the best options for your home and budget. Your doors and windows are then manufactured to your exact specifications with high-quality materials."
+      },
+      {
+        "number": "3",
+        "title": "Professional Installation",
+        "description": "Our experts install your new doors and windows with attention to detail, ensuring perfect sealing, superior thermal and acoustic insulation, while minimizing impact on your daily routine."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "The Benefits of New Doors and Windows",
+    "ctaText": "Contact Us",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Energy Savings",
+        "description": "Modern energy-efficient doors and windows can significantly reduce your heating and cooling costs by preventing air leaks and providing better insulation."
+      },
+      {
+        "title": "Comfort and Tranquility",
+        "description": "Eliminate drafts and cold spots near windows and doors, while reducing outside noise, creating a more comfortable, consistent, and peaceful home environment in all seasons."
+      },
+      {
+        "title": "Enhanced Security",
+        "description": "Modern doors and windows feature advanced locking mechanisms and stronger materials to better protect your home and family from intrusions."
+      },
+      {
+        "title": "Added Value",
+        "description": "New doors and windows offer one of the best returns on investment for home improvements, increasing curb appeal and the market value of your property."
+      }
+    ]
+  }
+}

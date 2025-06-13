@@ -1,0 +1,33 @@
+{
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "email": "Email",
+  "phone": "Phone",
+  "service": "Service Interested In",
+  "selectService": "Select a service",
+  "message": "Message",
+  "submit": "Send Message",
+  "sending": "Sending...",
+  "thankYouTitle": "Thank You!",
+  "thankYouMessage": "Your message has been sent successfully. Our team will contact you shortly.",
+  "sendAnother": "Send Another Message",
+  "messagePlaceholder": "Describe your project or ask us your questions...",
+  "consentText": "I agree that my information will be used to contact me regarding my inquiry.",
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidPhone": "Please enter a valid phone number",
+    "consent": "You must agree to the terms"
+  },
+  "services": {
+    "residential": "Residential Construction & Renovation",
+    "homeExtensions": "Home Extensions",
+    "kitchenBath": "Kitchen & Bathroom Renovations",
+    "doorsWindows": "Doors & Windows",
+    "flooring": "Flooring Installation",
+    "commercial": "Commercial Construction",
+    "cabinetsClosets": "Custom Cabinets & Closets",
+    "disaster": "Disaster Recovery",
+    "other": "Other"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "meta_title": "Commercial Construction & Renovation Montreal | Dilamco",
+    "meta_description": "Commercial renovation and construction services in Montreal for offices, retail stores, and more. Dilamco ensures code-compliant, on-time commercial build-outs and remodels."
+  },
+  "hero": {
+    "title": "Commercial Construction & Renovation Services",
+    "description": "Dilamco specializes in commercial construction and renovations in Montreal, from modern office remodels to retail store build-outs.",
+    "image": "/images/commercial/commercial-build-out.webp",
+    "ctaText": "Contact Us",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Transform Your Commercial Space",
+    "image": "/images/commercial/commercial-build-out.webp",
+    "imageAlt": "Commercial construction and renovation in Montreal",
+    "items": [
+      {
+        "description": "Dilamco provides comprehensive commercial construction and renovation services to businesses throughout the Montreal area. We understand that commercial projects require minimal disruption to your operations, strict adherence to timelines, and compliance with all building codes and regulations."
+      },
+      {
+        "description": "Our experienced team works efficiently to deliver high-quality results that enhance your business space while minimizing downtime. From office renovations to retail build-outs, we have the expertise to handle projects of any size and complexity."
+      },
+      {
+        "description": "Every business has unique needs and requirements for their space. We work closely with you to understand your business operations, brand identity, and goals to create a customized build-out that supports your success."
+      }
+    ]
+  },
+  "services": {
+    "title": "Our Commercial Services",
+    "items": [
+      {
+        "title": "Office Renovations",
+        "icon": "building-2",
+        "description": "Transform your office space with modern designs, improved functionality, and efficient layouts that enhance productivity and impress clients. We create inspiring and functional work environments."
+      },
+      {
+        "title": "Retail Build-Outs",
+        "icon": "store",
+        "description": "Create engaging retail environments that attract customers and showcase your products with custom fixtures, lighting, and displays. Maximize visual impact and customer experience."
+      },
+      {
+        "title": "Industrial & Warehouse",
+        "icon": "warehouse",
+        "description": "Optimize your industrial space with practical renovations that improve workflow, safety, and efficiency for your operations. Durable solutions for demanding environments."
+      },
+      {
+        "title": "Restaurant & Hospitality",
+        "icon": "utensils",
+        "description": "Design and build inviting spaces for restaurants, cafes, and hospitality businesses that create memorable customer experiences. Perfect balance of ambiance and functionality."
+      },
+      {
+        "title": "Multi-Unit Properties",
+        "icon": "buildings",
+        "description": "Renovate apartment buildings, condos, and multi-unit properties with quality upgrades that increase value and tenant satisfaction."
+      },
+      {
+        "title": "Tenant Improvements",
+        "icon": "key",
+        "description": "Customize leased spaces to meet your specific business needs with modifications that comply with building requirements and lease terms."
+      }
+    ]
+  },
+  "process": {
+    "title": "Our Commercial Renovation Process",
+    "items": [
+      {
+        "number": "1",
+        "title": "Consultation and Planning",
+        "description": "We analyze your business needs, assess the existing space, and develop a detailed plan that meets your budget, timeline, and operational requirements."
+      },
+      {
+        "number": "2",
+        "title": "Permits and Preparation",
+        "description": "We handle all necessary permits, coordinate with local authorities, and prepare the site to minimize disruption to your business operations."
+      },
+      {
+        "number": "3",
+        "title": "Execution and Delivery",
+        "description": "Our skilled team executes the work with efficiency and precision, maintains constant communication, and delivers your renovated commercial space on schedule."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Commercial Expertise, Professional Results",
+    "ctaText": "Request a Commercial Consultation",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "On-Time Delivery",
+        "description": "We understand that time is money for your business. Our team works efficiently to meet deadlines and minimize disruption to your commercial operations."
+      },
+      {
+        "title": "Code Compliance",
+        "description": "We ensure all commercial renovations meet Montreal building codes and regulations, handling permits and inspections throughout the process."
+      },
+      {
+        "title": "Quality Craftsmanship",
+        "description": "Our skilled tradespeople deliver superior workmanship on every project, using quality materials and proven construction techniques for lasting results."
+      },
+      {
+        "title": "Customized Solutions",
+        "description": "Every commercial project is unique. We offer tailored solutions that reflect your brand, optimize your space, and support your specific business goals."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "meta_title": "Construction et rénovation commerciale | Dilamco",
+    "meta_description": "Services de rénovation et de construction commerciale pour bureaux, commerces de détail et plus. Dilamco assure des aménagements et rénovations commerciaux conformes aux codes et dans les délais."
+  },
+  "hero": {
+    "title": "Construction et rénovation commerciale",
+    "description": "Dilamco se spécialise dans la construction et les rénovations commerciales, des rénovations de bureaux modernes aux aménagements de magasins de détail.",
+    "image": "/images/commercial/commercial-build-out.webp",
+    "ctaText": "Contactez-nous",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Transformez votre espace commercial",
+    "image": "/images/commercial/commercial-build-out.webp",
+    "imageAlt": "Commercial construction and renovation in Montreal",
+    "items": [
+      {
+        "description": "Dilamco fournit des services complets de construction et de rénovation commerciale aux entreprises de toute la région de Montréal. Nous comprenons que les projets commerciaux nécessitent une perturbation minimale de vos opérations, un respect strict des délais et la conformité à tous les codes et réglementations du bâtiment."
+      },
+      {
+        "description": "Notre équipe expérimentée travaille efficacement pour fournir des résultats de haute qualité qui améliorent votre espace commercial tout en minimisant les temps d'arrêt. Des rénovations de bureaux aux aménagements de commerces, nous avons l'expertise pour gérer des projets de toute taille et complexité."
+      },
+      {
+        "description": "Chaque entreprise a des besoins et des exigences uniques pour son espace. Nous travaillons en étroite collaboration avec vous pour comprendre vos opérations commerciales, votre identité de marque et vos objectifs afin de créer un aménagement personnalisé qui soutient votre réussite."
+      }
+    ]
+  },
+  "services": {
+    "title": "Nos services commerciaux",
+    "items": [
+      {
+        "title": "Rénovations de bureaux",
+        "icon": "building-2",
+        "description": "Transformez votre espace de bureau avec des designs modernes, une fonctionnalité améliorée et des aménagements efficaces qui augmentent la productivité et impressionnent les clients. Nous créons des environnements de travail inspirants et fonctionnels."
+      },
+      {
+        "title": "Aménagements commerciaux",
+        "icon": "store",
+        "description": "Créez des environnements commerciaux attrayants qui attirent les clients et mettent en valeur vos produits avec des installations, un éclairage et des présentoirs personnalisés. Maximisez l'impact visuel et l'expérience client."
+      },
+      {
+        "title": "Espaces industriels et entrepôts",
+        "icon": "warehouse",
+        "description": "Optimisez votre espace industriel avec des rénovations pratiques qui améliorent le flux de travail, la sécurité et l'efficacité de vos opérations. Solutions durables pour environnements exigeants."
+      },
+      {
+        "title": "Restaurant et hôtellerie",
+        "icon": "utensils",
+        "description": "Concevez et construisez des espaces accueillants pour les restaurants, cafés et entreprises hôtelières qui créent des expériences mémorables pour les clients. Ambiance et fonctionnalité parfaitement équilibrées."
+      },
+      {
+        "title": "Propriétés à unités multiples",
+        "icon": "buildings",
+        "description": "Rénovez des immeubles d'appartements, des condos et des propriétés à unités multiples avec des améliorations de qualité qui augmentent la valeur et la satisfaction des locataires."
+      },
+      {
+        "title": "Améliorations locatives",
+        "icon": "key",
+        "description": "Personnalisez les espaces loués pour répondre à vos besoins commerciaux spécifiques avec des modifications conformes aux exigences du bâtiment et aux termes de votre bail."
+      }
+    ]
+  },
+  "process": {
+    "title": "Notre processus de rénovation commerciale",
+    "items": [
+      {
+        "number": "1",
+        "title": "Consultation et planification",
+        "description": "Nous analysons vos besoins commerciaux, évaluons l'espace existant et développons un plan détaillé qui respecte votre budget, vos délais et vos exigences opérationnelles."
+      },
+      {
+        "number": "2",
+        "title": "Permis et préparation",
+        "description": "Nous gérons tous les permis nécessaires, coordonnons avec les autorités locales et préparons le site pour minimiser les perturbations de vos activités commerciales."
+      },
+      {
+        "number": "3",
+        "title": "Exécution et livraison",
+        "description": "Notre équipe qualifiée exécute les travaux avec efficacité et précision, maintient une communication constante et livre votre espace commercial rénové dans les délais convenus."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Expertise commerciale, résultats professionnels",
+    "ctaText": "Demander une consultation commerciale",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Livraison dans les délais",
+        "description": "Nous comprenons que le temps, c'est de l'argent pour votre entreprise. Notre équipe travaille efficacement pour respecter les délais et minimiser les perturbations de vos opérations commerciales."
+      },
+      {
+        "title": "Conformité aux codes",
+        "description": "Nous veillons à ce que toutes les rénovations commerciales respectent les codes et réglementations du bâtiment de Montréal, en gérant les permis et les inspections tout au long du processus."
+      },
+      {
+        "title": "Qualité d'exécution",
+        "description": "Nos artisans qualifiés fournissent un travail supérieur sur chaque projet, en utilisant des matériaux de qualité et des techniques de construction éprouvées pour des résultats durables."
+      },
+      {
+        "title": "Solutions personnalisées",
+        "description": "Chaque projet commercial est unique. Nous offrons des solutions sur mesure qui reflètent votre marque, optimisent votre espace et soutiennent vos objectifs d'affaires spécifiques."
+      }
+    ]
+  }
+}

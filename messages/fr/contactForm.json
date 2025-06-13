@@ -1,0 +1,33 @@
+{
+  "firstName": "Prénom",
+  "lastName": "Nom",
+  "email": "Courriel",
+  "phone": "Téléphone",
+  "service": "Service qui vous intéresse",
+  "selectService": "Sélectionnez un service",
+  "message": "Message",
+  "submit": "Envoyer le message",
+  "sending": "Envoi en cours...",
+  "thankYouTitle": "Merci!",
+  "thankYouMessage": "Votre message a été envoyé avec succès. Notre équipe vous contactera sous peu.",
+  "sendAnother": "Envoyer un autre message",
+  "messagePlaceholder": "Décrivez votre projet ou posez-nous vos questions...",
+  "consentText": "J'accepte que mes informations soient utilisées pour me contacter au sujet de ma demande.",
+  "errors": {
+    "required": "Ce champ est requis",
+    "invalidEmail": "Veuillez entrer une adresse courriel valide",
+    "invalidPhone": "Veuillez entrer un numéro de téléphone valide",
+    "consent": "Vous devez accepter les conditions"
+  },
+  "services": {
+    "residential": "Construction et rénovation résidentielle",
+    "homeExtensions": "Rallonges de maison",
+    "kitchenBath": "Rénovations de cuisine et salle de bain",
+    "doorsWindows": "Portes et fenêtres",
+    "flooring": "Installation de planchers",
+    "commercial": "Construction commerciale",
+    "cabinetsClosets": "Armoires et placards sur mesure",
+    "disaster": "Récupération après sinistre",
+    "other": "Autre"
+  }
+}

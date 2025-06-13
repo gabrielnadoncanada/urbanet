@@ -1,0 +1,104 @@
+{
+  "seo": {
+    "meta_title": "Armoires et Placards Sur Mesure | Dilamco",
+    "meta_description": "Solutions d'armoires et de placards sur mesure. Dilamco conçoit et installe des armoires de cuisine, des meubles-lavabos et des systèmes de rangement personnalisés pour maximiser votre espace."
+  },
+  "hero": {
+    "title": "Armoires et Placards Sur Mesure",
+    "description": "Solutions d'armoires et de placards sur mesure. Dilamco conçoit et installe des armoires de cuisine, des meubles-lavabos et des systèmes de rangement personnalisés pour maximiser votre espace.",
+    "image": "/images/custom-cabinets-closets/custom-cabinets-closets.webp",
+    "ctaText": "Contactez-nous",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Armoires et Placards Sur Mesure",
+    "image": "/images/custom-cabinets-closets/custom-cabinets-closets.webp",
+    "imageAlt": "Armoires et Placards Sur Mesure",
+    "items": [
+      {
+        "description": "Solutions d'armoires et de placards sur mesure. Dilamco conçoit et installe des armoires de cuisine, des meubles-lavabos et des systèmes de rangement personnalisés pour maximiser votre espace."
+      }
+    ]
+  },
+  "services": {
+    "title": "Nos services de création de meubles sur mesure",
+    "items": [
+      {
+        "title": "Création de meubles sur mesure",
+        "description": "Dilamco conçoit, fabrique et livre tout type de meuble sur mesure, selon vos besoins, dimensions et envies - sans aucune limite de style, de matériau ou de configuration."
+      },
+      {
+        "title": "Mobilier résidentiel personnalisé",
+        "description": "Nous créons du mobilier pour toutes les pièces de la maison : cuisine, salle de bain, salon, chambre, bureau, entrée… chaque projet est entièrement personnalisable."
+      },
+      {
+        "title": "Meubles commerciaux et professionnels",
+        "description": "Dilamco fabrique du mobilier pour commerces, bureaux, restaurants, hôtels et tout espace professionnel, adapté à votre image de marque et à vos contraintes d'espace."
+      },
+      {
+        "title": "Vanités et meubles-lavabos",
+        "description": "Nous créons des vanités et meubles-lavabos sur mesure, entièrement personnalisés selon vos choix de dimensions, finitions et styles."
+      },
+      {
+        "title": "Systèmes de rangement innovants",
+        "description": "Dilamco imagine et fabrique des systèmes de rangement (placards, penderies, armoires, dressing, meubles sous-escalier…) optimisés pour chaque espace."
+      },
+      {
+        "title": "Mobilier extérieur sur mesure",
+        "description": "Nous créons du mobilier extérieur personnalisé : bancs, pergolas, cuisines extérieures, mobilier de jardin, solutions pour terrasses et balcons."
+      }
+    ]    
+  },
+  "process": {
+    "title": "Notre processus",
+    "items": [
+      {
+        "title": "Consultation",
+        "description": "Nous commençons par une consultation approfondie pour comprendre vos besoins, préférences et budget."
+      },
+      {
+        "title": "Conception",
+        "description": "Nous créons un plan détaillé de votre projet, incluant les dimensions, les matériaux et les finitions."
+      },
+      {
+        "title": "Fabrication",
+        "description": "Nous fabriquons votre meuble ou agencement selon les plans et les spécifications."
+      },
+      {
+        "title": "Installation",
+        "description": "Nous installons votre meuble ou agencement selon les plans et les spécifications."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Les avantages de la création de meubles sur mesure",
+    "ctaText": "Contactez-nous",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Personnalisation",
+        "description": "Vous pouvez choisir les dimensions, les matériaux et les finitions de votre meuble ou agencement."
+      },
+      {
+        "title": "Qualité",
+        "description": "Nous utilisons des matériaux de haute qualité pour garantir la durabilité et la performance de votre meuble ou agencement."
+      },
+      {
+        "title": "Durabilité",
+        "description": "Nos meubles sur mesure sont conçus pour durer et résister au temps."
+      },
+      {
+        "title": "Espace",
+        "description": "Nos meubles sur mesure sont conçus pour maximiser l'espace disponible."
+      },
+      {
+        "title": "Esthétique",
+        "description": "Nos meubles sur mesure sont conçus pour être esthétiques et correspondre à votre style."
+      },
+      {
+        "title": "Prix",
+        "description": "Nos meubles sur mesure sont conçus pour être abordables et correspondre à votre budget."
+      }
+    ]
+  }
+}

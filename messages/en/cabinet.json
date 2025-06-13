@@ -1,0 +1,104 @@
+{
+  "seo": {
+    "meta_title": "Custom Cabinets & Closets in Montreal | Dilamco",
+    "meta_description": "Custom cabinet and closet solutions in Montreal. Dilamco designs and installs custom kitchen cabinets, bathroom vanities, and closet organizers to maximize your space."
+  },
+  "hero": {
+    "title": "Custom Cabinets & Closets",
+    "description": "Custom cabinet and closet solutions. Dilamco designs and installs custom kitchen cabinets, bathroom vanities, and personalized storage systems to maximize your space.",
+    "image": "/images/custom-cabinets-closets/custom-cabinets-closets.webp",
+    "ctaText": "Contact Us",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Custom Cabinets & Closets",
+    "image": "/images/custom-cabinets-closets/custom-cabinets-closets.webp",
+    "imageAlt": "Custom Cabinets & Closets",
+    "items": [
+      {
+        "description": "Custom cabinet and closet solutions. Dilamco designs and installs custom kitchen cabinets, bathroom vanities, and personalized storage systems to maximize your space."
+      }
+    ]
+  },
+  "services": {
+    "title": "Our Custom Furniture Creation Services",
+    "items": [
+      {
+        "title": "Custom Furniture Creation",
+        "description": "Dilamco designs, manufactures, and delivers all types of custom furniture, according to your needs, dimensions, and desires - without any limits on style, material, or configuration."
+      },
+      {
+        "title": "Personalized Residential Furniture",
+        "description": "We create furniture for all rooms in the house: kitchen, bathroom, living room, bedroom, office, entrance... each project is fully customizable."
+      },
+      {
+        "title": "Commercial and Professional Furniture",
+        "description": "Dilamco manufactures furniture for stores, offices, restaurants, hotels, and any professional space, adapted to your brand image and space constraints."
+      },
+      {
+        "title": "Vanities and Bathroom Cabinets",
+        "description": "We create custom vanities and bathroom cabinets, fully personalized according to your choices of dimensions, finishes, and styles."
+      },
+      {
+        "title": "Innovative Storage Systems",
+        "description": "Dilamco designs and manufactures storage systems (closets, wardrobes, cabinets, dressing rooms, under-stair furniture...) optimized for each space."
+      },
+      {
+        "title": "Custom Outdoor Furniture",
+        "description": "We create personalized outdoor furniture: benches, pergolas, outdoor kitchens, garden furniture, solutions for terraces and balconies."
+      }
+    ]
+  },
+  "process": {
+    "title": "Our Process",
+    "items": [
+      {
+        "title": "Consultation",
+        "description": "We start with a thorough consultation to understand your needs, preferences, and budget."
+      },
+      {
+        "title": "Design",
+        "description": "We create a detailed plan for your project, including dimensions, materials, and finishes."
+      },
+      {
+        "title": "Manufacturing",
+        "description": "We manufacture your furniture or installation according to the plans and specifications."
+      },
+      {
+        "title": "Installation",
+        "description": "We install your furniture or installation according to the plans and specifications."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "The Advantages of Custom Furniture Creation",
+    "ctaText": "Contact Us",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Personalization",
+        "description": "You can choose the dimensions, materials, and finishes of your furniture or installation."
+      },
+      {
+        "title": "Quality",
+        "description": "We use high-quality materials to guarantee the durability and performance of your furniture or installation."
+      },
+      {
+        "title": "Durability",
+        "description": "Our custom furniture is designed to last and withstand the test of time."
+      },
+      {
+        "title": "Space",
+        "description": "Our custom furniture is designed to maximize available space."
+      },
+      {
+        "title": "Aesthetics",
+        "description": "Our custom furniture is designed to be aesthetic and match your style."
+      },
+      {
+        "title": "Price",
+        "description": "Our custom furniture is designed to be affordable and match your budget."
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "seo": {
+    "meta_title": "Residential Construction & Renovation in Montreal | Dilamco",
+    "meta_description": "Home renovation and construction services in Montreal. Dilamco specializes in home extensions, kitchen remodels, windows/doors, and flooring. Transform your home with Montreal's trusted contractors."
+  },
+  "hero": {
+    "title": "Residential Construction & Renovation",
+    "description": "Transform your home with a trusted Montreal contractor.",
+    "ctaText": "Contact Us",
+    "ctaLink": "/contact",
+    "image": "/images/residential/residential-construction-renovation-banner.webp"
+  },
+  "intro": {
+    "title": "Comprehensive Residential Construction & Renovation Services",
+    "items": [
+      {
+        "description": "At Dilamco, we offer a full range of residential construction and renovation services to homeowners throughout Montreal and surrounding areas. Our experienced team can handle projects of any size, from simple room updates to complete home renovations and new construction."
+      },
+      {
+        "description": "We take pride in our attention to detail, quality craftsmanship, and commitment to customer satisfaction. Whether you're looking to modernize your kitchen, add more living space, or enhance your home's exterior, we have the expertise to bring your vision to life."
+      }
+    ]
+  },
+  "services": {
+    "items": [
+      {
+        "title": "Home Additions & Extensions",
+        "description": "Expand your living space with a custom home addition or extension. We handle everything from design to construction, ensuring seamless integration with your existing home.",
+        "link": "/residential/home-extensions",
+        "image": "/images/residential/home-extensions/home-extensions.webp"
+      },
+      {
+        "title": "Kitchen & Bathroom Renovations",
+        "description": "Transform your kitchen or bathroom with quality materials and expert installation. Our renovations enhance both functionality and aesthetics.",
+        "link": "/residential/kitchen-bathroom-renovations",
+        "image": "/images/residential/kitchen-bathroom-renovations/kitchen-bathroom-renovations.webp"
+      },
+      {
+        "title": "Windows & Doors Installation",
+        "description": "Improve your home's energy efficiency and curb appeal with new windows and doors. We offer a wide selection of styles and materials for every budget.",
+        "link": "/residential/doors-windows",
+        "image": "/images/residential/doors-windows/windows-doors-installation.webp"
+      },
+      {
+        "title": "Flooring Installation",
+        "description": "Improve your home's quality of life and value with quality flooring. We offer a wide range of styles and materials for every budget.",
+        "link": "/residential/flooring-installation",
+        "image": "/images/residential/flooring-installation/ceramic-tile-flooring-installation.webp"
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Why Choose Dilamco for Your Home Renovation",
+    "ctaText": "Contact Us",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Experience & Expertise",
+        "description": "With over 20 years in the industry, our team brings extensive knowledge and skills to every residential project. We stay updated on the latest building techniques and materials."
+      },
+      {
+        "title": "Quality Craftsmanship",
+        "description": "We take pride in our attention to detail and commitment to excellence. Our skilled tradespeople deliver superior workmanship on every project, large or small."
+      },
+      {
+        "title": "Transparent Process",
+        "description": "From detailed quotes to regular progress updates, we maintain clear communication throughout your project. You'll always know what to expect and when."
+      },
+      {
+        "title": "Local Knowledge",
+        "description": "As a Montreal-based company, we understand local building codes, permit requirements, and the unique characteristics of Montreal homes. Our local expertise ensures smooth project execution."
+      }
+    ]
+  }
+}

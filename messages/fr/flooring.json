@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "meta_title": "Installation de planchers en bois franc et céramique | Dilamco",
+    "meta_description": "Installation professionnelle de planchers. Dilamco installe des planchers en bois franc, stratifié et céramique avec une précision experte. Améliorez les planchers de votre maison aujourd'hui."
+  },
+  "hero": {
+    "title": "Installation de planchers en bois franc et céramique",
+    "description": "Transformez votre maison avec de beaux nouveaux planchers installés par l'équipe d'experts de Dilamco.",
+    "image": "/images/residential/flooring-installation/hardwood-flooring-installation.webp",
+    "ctaText": "Contactez-nous",
+    "ctaLink": "/contact"
+  },
+  "intro": {
+    "title": "Transformez votre maison avec de nouveaux planchers",
+    "image": "/images/residential/flooring-installation/ceramic-tile-flooring-installation.webp",
+    "imageAlt": "Flooring installation in Montreal",
+    "items": [
+      {
+        "description": "Les planchers sont l'un des éléments les plus importants de votre maison, influençant à la fois l'esthétique et la fonctionnalité de chaque pièce. Que vous souhaitiez la chaleur et l'élégance du bois franc, la durabilité de la céramique, ou la polyvalence des revêtements modernes, le bon choix de plancher peut transformer complètement votre espace de vie."
+      },
+      {
+        "description": "Chez Dilamco, nous nous spécialisons dans l'installation professionnelle de tous types de planchers pour les maisons de Montréal. Notre équipe d'experts travaille avec une variété de matériaux et de techniques d'installation pour créer des planchers beaux, durables et parfaitement adaptés à votre style de vie."
+      },
+      {
+        "description": "De la préparation du sous-plancher aux finitions finales, nous nous occupons de chaque détail pour garantir un résultat impeccable qui ajoutera de la valeur et de la beauté à votre maison pendant des décennies."
+      }
+    ]
+  },
+  "services": {
+    "title": "Nos services d'installation de planchers",
+    "items": [
+      {
+        "title": "Installation de planchers en bois franc",
+        "icon": "tree-pine",
+        "description": "Installation et refinition de planchers en bois franc massif et d'ingénierie. Nous travaillons avec diverses essences de bois, finitions et motifs personnalisés pour créer le plancher parfait qui ajoute chaleur, beauté et valeur à votre maison."
+      },
+      {
+        "title": "Planchers en céramique et porcelaine",
+        "icon": "square-stack",
+        "description": "Installation de carreaux de céramique et de porcelaine pour une durabilité exceptionnelle et une résistance à l'eau. Parfait pour les salles de bains, cuisines et zones à fort trafic avec des coupes précises et des lignes de coulis uniformes."
+      },
+      {
+        "title": "Pierre naturelle et carrelage décoratif",
+        "icon": "gem",
+        "description": "Installation de carreaux en pierre naturelle (marbre, granit, ardoise) et carrelage décoratif avec motifs personnalisés. Nous créons des designs uniques qui reflètent votre style personnel et rehaussent l'esthétique de votre espace."
+      },
+      {
+        "title": "Revêtements de sol modernes",
+        "icon": "layers",
+        "description": "Installation de vinyle de luxe (LVT/LVP), planchers stratifiés, et autres revêtements modernes. Ces options offrent l'apparence du bois ou de la pierre avec une facilité d'entretien et une résistance à l'eau supérieures."
+      },
+      {
+        "title": "Planchers chauffants",
+        "icon": "thermometer",
+        "description": "Installation de systèmes de planchers chauffants sous carrelage pour un confort optimal. Parfait pour les salles de bains et autres espaces où vous souhaitez profiter de la chaleur sous vos pieds pendant les mois d'hiver montréalais."
+      },
+      {
+        "title": "Refinition et réparation",
+        "icon": "hammer",
+        "description": "Refinition de planchers en bois franc existants et réparation de tous types de revêtements de sol. Nous restaurons la beauté naturelle de vos planchers et prolongeons leur durée de vie avec des techniques professionnelles."
+      }
+    ]
+  },
+  "process": {
+    "title": "Notre processus d'installation de planchers",
+    "items": [
+      {
+        "number": "1",
+        "title": "Évaluation et sélection",
+        "description": "Nous évaluons votre espace, discutons de vos besoins et vous aidons à choisir le type de plancher idéal. Nous préparons un devis détaillé et planifions chaque étape de l'installation."
+      },
+      {
+        "number": "2",
+        "title": "Préparation du sous-plancher",
+        "description": "Nous préparons soigneusement le sous-plancher, effectuons les réparations nécessaires et nous assurons que la surface est parfaitement nivelée et prête pour l'installation de votre nouveau plancher."
+      },
+      {
+        "number": "3",
+        "title": "Installation et finition",
+        "description": "Notre équipe qualifiée installe votre plancher avec précision, effectue toutes les coupes nécessaires et applique les finitions appropriées. Nous nettoyons complètement et vous livrons un plancher prêt à être utilisé."
+      }
+    ]
+  },
+  "highlights": {
+    "title": "Installation professionnelle, résultats durables",
+    "ctaText": "Contactez nos experts en planchers",
+    "ctaLink": "/contact",
+    "items": [
+      {
+        "title": "Matériaux de qualité supérieure",
+        "description": "Nous travaillons uniquement avec des matériaux de haute qualité provenant de fournisseurs réputés. Que ce soit du bois franc, de la céramique ou des revêtements modernes, nous garantissons la durabilité et la beauté de votre investissement."
+      },
+      {
+        "title": "Expertise technique spécialisée",
+        "description": "Nos installateurs possèdent l'expertise technique et les outils spécialisés nécessaires pour une installation parfaite. Nous maîtrisons les techniques de préparation, d'expansion et de finition pour chaque type de matériau."
+      },
+      {
+        "title": "Connaissance des maisons montréalaises",
+        "description": "Nous comprenons les défis uniques des maisons de Montréal, des triplex historiques aux condos modernes. Notre expertise locale nous permet de recommander les meilleures solutions pour votre type d'habitation et votre style de vie."
+      },
+      {
+        "title": "Garantie complète",
+        "description": "Nous offrons une garantie complète sur nos matériaux et notre main-d'œuvre. Notre engagement envers la qualité signifie que vous pouvez profiter de vos nouveaux planchers en toute tranquillité d'esprit pendant des années."
+      }
+    ]
+  }
+}
