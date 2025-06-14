@@ -31,8 +31,8 @@ export default function AboutStatsSection() {
           {stats.map((stat, index) => (
             <div key={index} className="text-center">
               <div className="flex items-center justify-center gap-2 mb-2">
-                <span className="tmd lg:h5 font-semibold text-gray-900">{stat.number}</span>
-                <span className="tmd lg:h5 font-semibold text-gray-900">{stat.suffix}</span>
+                <span className="h5 lg:h4 font-semibold text-gray-900">{stat.number}</span>
+                <span className="h5 lg:h4 font-semibold text-gray-900">{stat.suffix}</span>
               </div>
               <p className="txs lg:tsm text-gray-500">{stat.label}</p>
             </div>

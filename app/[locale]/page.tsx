@@ -36,12 +36,12 @@ function HomePage({ params }: { params: { locale: string } }) {
       <PartnersSection />
       <GettingStartedSection />
       <FAQSection />
-      {/* <CTASection 
+      <CTASection 
         variant="centered"
         title="Join the Urbanet Community Today!"
         description="Discover how we can help you find, sell, or rent properties with ease."
         buttonText="Learn More"
-      /> */}
+      />
     </div>
   );
 }

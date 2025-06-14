@@ -52,7 +52,7 @@ export default function CoreValuesSection() {
                   className="flex flex-col gap-2 pb-4 lg:pb-5 border-b border-[#E3E8EF] last:border-b-0"
                 >
                   <h3 className="tsm lg:tlg font-semibold text-foreground">{value.title}</h3>
-                  <p className="txs lg:tsm text-muted-foreground">{value.description}</p>
+                  <p className="txs lg:tmd text-muted-foreground">{value.description}</p>
                 </div>
               ))}
             </div>

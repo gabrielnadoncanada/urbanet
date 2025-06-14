@@ -121,17 +121,7 @@ export default function PropertyListingsSection() {
                         </div>
                       </div>
 
-                      {/* Badges */}
-                      <div className="flex gap-2 mb-4">
-                        {property.badges.map((badge: string, badgeIndex: number) => (
-                          <span
-                            key={badgeIndex}
-                            className="px-3 py-1 bg-gray-100 text-muted-foreground rounded-full txs lg:tsm"
-                          >
-                            {badge}
-                          </span>
-                        ))}
-                      </div>
+                     
                     </div>
                   </Card>
                 </CarouselItem>

@@ -37,10 +37,10 @@ export default function VisionMissionSection() {
 
               {/* Content */}
               <div className="mb-8">
-                <h3 className="tsm lg:tlg font-semibold text-gray-900 mb-6">
+                <h3 className="h6 lg:h5 text-gray-900 mb-6">
                   Trusted & Innovative Real Estate Connection
                 </h3>
-                <p className="txs lg:tsm text-gray-500">
+                <p className="tsm lg:tmd text-gray-500">
                   Finding the perfect home or investment property requires expertise, trust, and
                   innovation. We bridge the gap between your real estate goals and seamless
                   transactions by combining industry knowledge with cutting-edge technology.
